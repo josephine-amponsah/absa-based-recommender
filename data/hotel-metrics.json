@@ -1,0 +1,3820 @@
+[
+  {
+    "title": "Fantas Folly",
+    "placeId": "ChIJA2dVyhKc5w8RzaeO_CSow8E",
+    "reviewsCount": 145,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 35.55,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Beach"
+      ]
+    },
+    "latitude": 4.8294648,
+    "longitude": -1.8985344
+  },
+  {
+    "title": "Ankobra Bridge Hotel and Resort",
+    "placeId": "ChIJL7Hywp7x5w8RFvPm-57fTwc",
+    "reviewsCount": 44,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 35.35,
+    "experience": {},
+    "latitude": 4.901078,
+    "longitude": -2.2673678
+  },
+  {
+    "title": "RHOGEM Hotel",
+    "placeId": "ChIJ65dVOS545w8RKPIMAlGWpoM",
+    "reviewsCount": 175,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 49.69,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 4.9007445,
+    "longitude": -1.7997524
+  },
+  {
+    "title": "Alliance Hotel by Eagles (formerly Protea Hotel Takoradi Select by Marriott)",
+    "placeId": "ChIJEZ9Mgn135w8RpR6bnAqgfrI",
+    "reviewsCount": 955,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 100.27,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 4.8787809,
+    "longitude": -1.7698664
+  },
+  {
+    "title": "Best Western Plus Atlantic Hotel",
+    "placeId": "ChIJ8T_3y1J35w8RYE3GQFSxYUs",
+    "reviewsCount": 3537,
+    "totalScore": 4.4,
+    "hotelStars": "4-star hotel",
+    "price": 130.31,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Golf course",
+        "Bar"
+      ]
+    },
+    "latitude": 4.8812416,
+    "longitude": -1.7556486
+  },
+  {
+    "title": "Red Mango Hotel and Apartments",
+    "placeId": "ChIJ65Ey9lN35w8RQ0mxElFzJ5E",
+    "reviewsCount": 396,
+    "totalScore": 4.5,
+    "hotelStars": "3-star hotel",
+    "price": 129.16,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Business center",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center",
+        "Golf course",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 4.8860426,
+    "longitude": -1.75795
+  },
+  {
+    "title": "Sedelam Lodge",
+    "placeId": "ChIJd3kLdGdl5w8RSVyKzAGSp9E",
+    "reviewsCount": 51,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 4.9855676,
+    "longitude": -1.6574058
+  },
+  {
+    "title": "IS Guest House",
+    "placeId": "ChIJTeg3vEX-3Q8RuTES9L2KutU",
+    "reviewsCount": 43,
+    "totalScore": 3.5,
+    "hotelStars": "1-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.110938,
+    "longitude": -1.2403963
+  },
+  {
+    "title": "Hotel Francilia",
+    "placeId": "ChIJV0QBk_D-3Q8RdfQqvAta0Io",
+    "reviewsCount": 268,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.1662839,
+    "longitude": -1.2960589
+  },
+  {
+    "title": "Saralotte Guest House",
+    "placeId": "ChIJlyHzHtj-3Q8Rq6PsgUYfW9Y",
+    "reviewsCount": 27,
+    "totalScore": 3.6,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1012694,
+    "longitude": -1.2792765
+  },
+  {
+    "title": "Ahanta Eco Lodge",
+    "placeId": "ChIJ5VyAhiGZ5w8RKN-oLKCZLGk",
+    "reviewsCount": 104,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 4.8030391,
+    "longitude": -1.9403995
+  },
+  {
+    "title": "Ibisa Hotel Takoradi",
+    "placeId": "ChIJPR2vrct55w8Rz-6UQQC5VX8",
+    "reviewsCount": 79,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 37,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 4.9215988,
+    "longitude": -1.7993866
+  },
+  {
+    "title": "Busua Paradiso Beach Resort",
+    "placeId": "ChIJI0mSeLN55w8RUKHAJp1hUn8",
+    "reviewsCount": 54,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 4.917563,
+    "longitude": -1.790467
+  },
+  {
+    "title": "Essbenah Hotel",
+    "placeId": "ChIJxzTQ8Jca3Q8RHHsozchz1_c",
+    "reviewsCount": 99,
+    "totalScore": 3.4,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5698709,
+    "longitude": -2.0084281
+  },
+  {
+    "title": "Yabah Hotel",
+    "placeId": "ChIJbe0Pc2X75w8RLn6CypCYGmM",
+    "reviewsCount": 44,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 4.9502854,
+    "longitude": -2.377138
+  },
+  {
+    "title": "Tenack Beach Resort and Hotel",
+    "placeId": "ChIJN22kQvsD6A8RklNAMj8nmEk",
+    "reviewsCount": 21,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 70,
+    "experience": {},
+    "latitude": 4.9808813,
+    "longitude": -2.5452314
+  },
+  {
+    "title": "Raybow International Hotel",
+    "placeId": "ChIJFacf6Vp35w8Rrx2ZoispYgQ",
+    "reviewsCount": 1151,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": 125,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 4.884571,
+    "longitude": -1.7640269
+  },
+  {
+    "title": "Milgwen Hotel",
+    "placeId": "ChIJlVIRSzx45w8RAy0AZHwUds0",
+    "reviewsCount": 113,
+    "totalScore": 3.6,
+    "hotelStars": "3-star hotel",
+    "price": 26,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 4.9052519,
+    "longitude": -1.8099691
+  },
+  {
+    "title": "Laughing Goat Ghana",
+    "placeId": "ChIJHc_kv9ib5w8R3_8PLD3Iw2I",
+    "reviewsCount": 52,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 17.0,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Beach"
+      ]
+    },
+    "latitude": 4.8099516,
+    "longitude": -1.9373327
+  },
+  {
+    "title": "Ezile Bay Ecolodge Akwidaa, Ghana",
+    "placeId": "ChIJu8DP01qW5w8RVYmDm41WpII",
+    "reviewsCount": 39,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 30,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Beach"
+      ]
+    },
+    "latitude": 4.756283,
+    "longitude": -2.038517
+  },
+  {
+    "title": "Balona Hotel",
+    "placeId": "ChIJl0XOjq_75w8RjLiwJw1nCSQ",
+    "reviewsCount": 177,
+    "totalScore": 3.7,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 4.9348827,
+    "longitude": -2.3407605
+  },
+  {
+    "title": "Veivaag Lodge",
+    "placeId": "ChIJQ0FjPVJ75w8RFHTTtSX5pB4",
+    "reviewsCount": 363,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 44,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 4.9656324,
+    "longitude": -1.6812649
+  },
+  {
+    "title": "Kwodebann Hotel",
+    "placeId": "ChIJR1hgCHn75w8RBZxBZH3ezCc",
+    "reviewsCount": 146,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 4.9323102,
+    "longitude": -2.3357221
+  },
+  {
+    "title": "Busua Paradiso Beach Resort",
+    "placeId": "ChIJqd5rsmSZ5w8R-mD1iF5LUqA",
+    "reviewsCount": 21,
+    "totalScore": 4.2,
+    "hotelStars": "2-star hotel",
+    "price": 55,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 4.8016611,
+    "longitude": -1.9389753
+  },
+  {
+    "title": "Jangels Hotel Annex",
+    "placeId": "ChIJFREouQH_3Q8RlrE5Gdso5sQ",
+    "reviewsCount": 22,
+    "totalScore": 3.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1328885,
+    "longitude": -1.2798517
+  },
+  {
+    "title": "Ewurafio Guest House Adisadel Estate",
+    "placeId": "ChIJQUbWf-j-3Q8RCpBLOGNFmc4",
+    "reviewsCount": 99,
+    "totalScore": 3.8,
+    "hotelStars": "2-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.1107727,
+    "longitude": -1.2674199
+  },
+  {
+    "title": "Eden Lodge",
+    "placeId": "ChIJi82O4Jr-3Q8RCzgVFxujWn8",
+    "reviewsCount": 226,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": 24,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1338485,
+    "longitude": -1.2614823
+  },
+  {
+    "title": "Samrit Hotel - Cape Coast.",
+    "placeId": "ChIJVw5GORD_3Q8RHSHLYDq9jso",
+    "reviewsCount": 84,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1287792,
+    "longitude": -1.2720374
+  },
+  {
+    "title": "Shaky's Hotel",
+    "placeId": "ChIJe9Yh3-n-3Q8RSf5BJK58oYc",
+    "reviewsCount": 151,
+    "totalScore": 3.6,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1143539,
+    "longitude": -1.2697078
+  },
+  {
+    "title": "Kokodo Guest House",
+    "placeId": "ChIJrVsvCmD-3Q8RvNNUH75UNa0",
+    "reviewsCount": 214,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 47.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1214737,
+    "longitude": -1.2495459
+  },
+  {
+    "title": "GRNMA HOTEL, CAPE COAST",
+    "placeId": "ChIJkUuF9RL_3Q8RTcfF5QaeZL0",
+    "reviewsCount": 88,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1373747,
+    "longitude": -1.2660238
+  },
+  {
+    "title": "C-Lotte's Hotel",
+    "placeId": "ChIJKbo67Pj-3Q8RVdkX8sLzdbc",
+    "reviewsCount": 42,
+    "totalScore": 3.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1072771,
+    "longitude": -1.2520464
+  },
+  {
+    "title": "Samrit Hotel",
+    "placeId": "ChIJDYJorb3-3Q8RKRHlNU_Jh5o",
+    "reviewsCount": 697,
+    "totalScore": 3.7,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.1311499,
+    "longitude": -1.2794321
+  },
+  {
+    "title": "Fairhill Guesthouse - Main",
+    "placeId": "ChIJg57kWcP-3Q8RvtcZFs_Po3g",
+    "reviewsCount": 121,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1116715,
+    "longitude": -1.2705364
+  },
+  {
+    "title": "Matlat Hotel",
+    "placeId": "ChIJSWOmd5P-3Q8R_VInMFWKRBo",
+    "reviewsCount": 136,
+    "totalScore": 3.2,
+    "hotelStars": null,
+    "price": 29,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.12358,
+    "longitude": -1.264329
+  },
+  {
+    "title": "KOFGAN Hotel",
+    "placeId": "ChIJVVVVVaX-3Q8R_MDEvdxXduc",
+    "reviewsCount": 65,
+    "totalScore": 3.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1308723,
+    "longitude": -1.2730002
+  },
+  {
+    "title": "Manest Royal Hotel",
+    "placeId": "ChIJUV5eBxj-3Q8RoYu1-cJRzJI",
+    "reviewsCount": 48,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.121218,
+    "longitude": -1.221379
+  },
+  {
+    "title": "Savoy Hotel",
+    "placeId": "ChIJLW2QwUX-3Q8RR8sCA0lN_ak",
+    "reviewsCount": 127,
+    "totalScore": 3.3,
+    "hotelStars": null,
+    "price": 29,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.1119823,
+    "longitude": -1.2376198
+  },
+  {
+    "title": "Wildwin Resort",
+    "placeId": "ChIJ2fBX66jx2w8RQzJ_b8XbLHg",
+    "reviewsCount": 163,
+    "totalScore": 4.3,
+    "hotelStars": "1-star hotel",
+    "price": 28.0,
+    "experience": {
+      "amenities": [
+        "Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 6.539934,
+    "longitude": -1.4097342
+  },
+  {
+    "title": "Blue Diamond Beach and Spa Resort",
+    "placeId": "ChIJrRD36dYw3g8RyA8iyAKAeCU",
+    "reviewsCount": 289,
+    "totalScore": 4.1,
+    "hotelStars": "4-star hotel",
+    "price": 115,
+    "experience": {
+      "amenities": [
+        "Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.3029375,
+    "longitude": -0.7188125
+  },
+  {
+    "title": "Brenu Beach Lodge",
+    "placeId": "ChIJq3dCnT343Q8RlfueQFj26xs",
+    "reviewsCount": 71,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": 49,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Beach access",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.0682687,
+    "longitude": -1.4219352
+  },
+  {
+    "title": "Abuesi Beach Resort",
+    "placeId": "ChIJZ-8CtNd55w8RQVlfBJMDqAo",
+    "reviewsCount": 33,
+    "totalScore": 3.6,
+    "hotelStars": "3-star hotel",
+    "price": 41.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Pet-friendly",
+        "Beach access",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center"
+      ]
+    },
+    "latitude": 4.9897149,
+    "longitude": -1.6352498
+  },
+  {
+    "title": "Shama Beach Resort",
+    "placeId": "ChIJZwSmUgZ75w8RxwbHs-Awgz8",
+    "reviewsCount": 29,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": 77,
+    "experience": {
+      "amenities": [
+        "Pet-friendly",
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 4.9937236,
+    "longitude": -1.6361104
+  },
+  {
+    "title": "Sogakope Beach Resort & Spa",
+    "placeId": "ChIJDbOD3OsdIRARTv7v7vASICo",
+    "reviewsCount": 1259,
+    "totalScore": 4.3,
+    "hotelStars": "3-star hotel",
+    "price": 77,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.9659814,
+    "longitude": 0.6172802
+  },
+  {
+    "title": "Elmina Bay Resort",
+    "placeId": "ChIJPV3nNOz33Q8RT5RUC0bWrhw",
+    "reviewsCount": 122,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": 116.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.075138,
+    "longitude": -1.378355
+  },
+  {
+    "title": "Charlestina Beach Resort",
+    "placeId": "ChIJIQfDNVb33Q8RKjk2lJcfZpg",
+    "reviewsCount": 216,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 69.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Beach access",
+        "Room service",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.0623144,
+    "longitude": -1.4399493
+  },
+  {
+    "title": "White Sands Beach Resort and Spa Ghana",
+    "placeId": "ChIJw5YUg5i33w8RyVrV1SjIc4w",
+    "reviewsCount": 346,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 800,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Spa",
+        "Bar"
+      ]
+    },
+    "latitude": 5.4273184,
+    "longitude": -0.4691204
+  },
+  {
+    "title": "Elmina Beach Resort",
+    "placeId": "ChIJ012sRE743Q8R7ORbiDThgbc",
+    "reviewsCount": 1643,
+    "totalScore": 4.0,
+    "hotelStars": "3-star hotel",
+    "price": 150.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.0934589,
+    "longitude": -1.3371245
+  },
+  {
+    "title": "Axim Beach Resort And Spa",
+    "placeId": "ChIJufkrZW3u5w8RHZjDUDzifpE",
+    "reviewsCount": 463,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": 53,
+    "experience": {
+      "amenities":[
+        "Beach access",
+        "Bar",
+        "Spa",
+        "Restaurant",
+        "Free breakfast",
+        "Kid friendly"
+      ]
+    },
+    "latitude": 4.8519982,
+    "longitude": -2.2349684
+  },
+  {
+    "title": "Lou Moon Resort - Eco Luxury",
+    "placeId": "ChIJYRQwy0Hs5w8RfsNdq-hJg4c",
+    "reviewsCount": 529,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 628,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 4.8288106,
+    "longitude": -2.2017396
+  },
+  {
+    "title": "Ankobra Beach Resort",
+    "placeId": "ChIJbUlZ8i7w5w8RlE2GNkFEb0o",
+    "reviewsCount": 300,
+    "totalScore": 4.1,
+    "hotelStars": "1-star hotel",
+    "price": 46.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Bar"
+      ]
+    },
+    "latitude": 4.8917565,
+    "longitude": -2.2656276
+  },
+  {
+    "title": "Maaha Beach Resort",
+    "placeId": "ChIJfdN3Vc4d6A8R-gvM9HG1o1o",
+    "reviewsCount": 1235,
+    "totalScore": 4.3,
+    "hotelStars": "2-star hotel",
+    "price": 97.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Laundry service",
+        "Business center",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 4.9723558,
+    "longitude": -2.5167274
+  },
+  {
+    "title": "Lemon Beach Resort",
+    "placeId": "ChIJO-B1VLv33Q8R9DhHY_ffxCw",
+    "reviewsCount": 885,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 73.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Golf course",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.0765268,
+    "longitude": -1.3750188
+  },
+  {
+    "title": "Capital Hill Hotel",
+    "placeId": "ChIJgVOZbZT-3Q8Rior1CHRXQSY",
+    "reviewsCount": 656,
+    "totalScore": 3.7,
+    "hotelStars": "2-star hotel",
+    "price": 53.33,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.1248409,
+    "longitude": -1.2656915
+  },
+  {
+    "title": "Natural Bamboo village Guesthouse & Restaurant",
+    "placeId": "ChIJdQb4WlL-3Q8Rdq2YqRJLRCs",
+    "reviewsCount": 25,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Beach"
+      ]
+    },
+    "latitude": 5.1034717,
+    "longitude": -1.2427968
+  },
+  {
+    "title": "RANS HILL LODGE, CAPE COAST",
+    "placeId": "ChIJS08WoFr-3Q8RRFE68Gv9OD0",
+    "reviewsCount": 53,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 35.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1108208,
+    "longitude": -1.2421333
+  },
+  {
+    "title": "Nana Bema Hotel",
+    "placeId": "ChIJg2DcdkT-3Q8Ro0Nz0SFm0y8",
+    "reviewsCount": 74,
+    "totalScore": 3.4,
+    "hotelStars": "1-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Air-conditioned",
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.1142674,
+    "longitude": -1.2380906
+  },
+  {
+    "title": "Cape Coast Hotel",
+    "placeId": "ChIJ4RgTV5T-3Q8RzyUvr1LTAMU",
+    "reviewsCount": 166,
+    "totalScore": 3.6,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1239306,
+    "longitude": -1.2671741
+  },
+  {
+    "title": "Balance Sheet Hotel",
+    "placeId": "ChIJ-WdgbxP_3Q8R00ss54EeV-w",
+    "reviewsCount": 59,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Air-conditioned",
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.1314282,
+    "longitude": -1.2692066
+  },
+  {
+    "title": "Brynx Haven",
+    "placeId": "ChIJxzqjKHn_3Q8Rb6yNOCjZSSo",
+    "reviewsCount": 100,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 98.0,
+    "experience": {},
+    "latitude": 5.1204375,
+    "longitude": -1.2371875
+  },
+  {
+    "title": "Marrets International Hotel",
+    "placeId": "ChIJlenD1un-3Q8R9UfcBZIbGxM",
+    "reviewsCount": 43,
+    "totalScore": 3.4,
+    "hotelStars": null,
+    "price": 40.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1138647,
+    "longitude": -1.2633151
+  },
+  {
+    "title": "Hacienda Hotel",
+    "placeId": "ChIJo5XjhJT-3Q8RhMeY7luBcJs",
+    "reviewsCount": 74,
+    "totalScore": 3.5,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.1231722,
+    "longitude": -1.2654969
+  },
+  {
+    "title": "Arafynn Hotel",
+    "placeId": "ChIJ0UZ0L5b-3Q8R5bTSGuqWRho",
+    "reviewsCount": 156,
+    "totalScore": 4.0,
+    "hotelStars": "2-star hotel",
+    "price": 31,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1283661,
+    "longitude": -1.2694597
+  },
+  {
+    "title": "Mighty Victory Hotel",
+    "placeId": "ChIJnwiAVFb-3Q8R6c9anhuHBd0",
+    "reviewsCount": 202,
+    "totalScore": 3.5,
+    "hotelStars": "2-star hotel",
+    "price": 30,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1077276,
+    "longitude": -1.2489019
+  },
+  {
+    "title": "Pempamsie Hotel",
+    "placeId": "ChIJ-cG9nIr-3Q8RgQqZfdsLsps",
+    "reviewsCount": 727,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 53,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    "latitude": 5.1233372,
+    "longitude": -1.25056
+  },
+  {
+    "title": "Fespa",
+    "placeId": "ChIJVVVVlez-3Q8RdAdkIwzKK5w",
+    "reviewsCount": 224,
+    "totalScore": 3.3,
+    "hotelStars": null,
+    "price": 35,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1206306,
+    "longitude": -1.2684226
+  },
+  {
+    "title": "Ridge Royal Hotel, Cape Coast Ghana",
+    "placeId": "ChIJcxftk4r-3Q8RIcPBCrgBw9o",
+    "reviewsCount": 1366,
+    "totalScore": 4.3,
+    "hotelStars": "3-star hotel",
+    "price": 140,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.1228415,
+    "longitude": -1.2515696
+  },
+  {
+    "title": "Summer Palace Hotel",
+    "placeId": "ChIJMxjUI9v-3Q8R5vB0fdwQQ_U",
+    "reviewsCount": 81,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": 35,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Parking",
+        "Pool",
+        "Air-conditioned",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1095411,
+    "longitude": -1.2767557
+  },
+  {
+    "title": "Oasis Beach Resort",
+    "placeId": "ChIJhUBJrFP-3Q8R7Lke7wn56E4",
+    "reviewsCount": 1510,
+    "totalScore": 3.9,
+    "hotelStars": "2-star hotel",
+    "price": 22.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Paid breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.1032038,
+    "longitude": -1.244032
+  },
+  {
+    "title": "Muntala's Guest House",
+    "placeId": "ChIJ2W665O6oJxARhwE6nrQErFY",
+    "reviewsCount": 53,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 25.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 7.162562,
+    "longitude": 0.4757596
+  },
+  {
+    "title": "Peace Holiday Resort",
+    "placeId": "ChIJ-WBgspUBIRAR2_17FLZyZ4k",
+    "reviewsCount": 453,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 50,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar"
+      ]
+    },
+    "latitude": 5.7950818,
+    "longitude": 0.6232394
+  },
+  {
+    "title": "Holy Trinity Resort Annex",
+    "placeId": "ChIJr6rWjevhIBARUpEfpgysb-w",
+    "reviewsCount": 99,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": 366,
+    "experience": {
+      "amenities":[
+        "spa", 
+        "beach access",
+        "free breakfast",
+        "pool",
+        "gym"
+      ]
+    },
+    "latitude": 5.9993281,
+    "longitude": 0.5858082
+  },
+  {
+    "title": "Waterfront Paradise Resort",
+    "placeId": "ChIJd8LHuvodIRAR0UtyHfULSlE",
+    "reviewsCount": 49,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "waterfront",
+        "free breakfast"
+      ]
+    },
+    "latitude": 5.9730391,
+    "longitude": 0.6102663
+  },
+  {
+    "title": "Sitsope Lodge",
+    "placeId": "ChIJ31LLPX8VIRAR-owmjs5wbXo",
+    "reviewsCount": 117,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": 25,
+    "experience": {},
+    "latitude": 6.0630907,
+    "longitude": 0.8690606
+  },
+  {
+    "title": "Triangle Hotel",
+    "placeId": "ChIJq-zjkXAlJxARL8j92FOTFyU",
+    "reviewsCount": 147,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.5897085,
+    "longitude": 0.4814388
+  },
+  {
+    "title": "Mountain Paradise Lodge",
+    "placeId": "ChIJD8eX0uYQJxARR0p8Q8L7v-s",
+    "reviewsCount": 139,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Paid Wi-Fi",
+        "Accessible",
+        "Business center",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Fitness center",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 6.8507,
+    "longitude": 0.4200235
+  },
+  {
+    "title": "Praise City (Point & Kill)",
+    "placeId": "ChIJC46GVcAtJxAR6i23SiUFWtk",
+    "reviewsCount": 44,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.559827,
+    "longitude": 0.6148976
+  },
+  {
+    "title": "Rocklyne Hotel",
+    "placeId": "ChIJG92HVT8lJxAR1MOXPQL7Ui4",
+    "reviewsCount": 63,
+    "totalScore": 3.7,
+    "hotelStars": "3-star hotel",
+    "price": 10,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.5994508,
+    "longitude": 0.4646057
+  },
+  {
+    "title": "Restel Hotel",
+    "placeId": "ChIJz0jFu-YlJxARSyG1f8NxJsw",
+    "reviewsCount": 43,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.6350484,
+    "longitude": 0.480754
+  },
+  {
+    "title": "Keta Lagoon Resort",
+    "placeId": "ChIJ3xWMG2JuIRARW10NKrVcpwU",
+    "reviewsCount": 60,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.9392158,
+    "longitude": 0.9960983
+  },
+  {
+    "title": "Woezor Hotel",
+    "placeId": "ChIJIaRquzolJxAR6qiFfyLlhrE",
+    "reviewsCount": 152,
+    "totalScore": 3.4,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.6092448,
+    "longitude": 0.4603368
+  },
+  {
+    "title": "Top club hotel",
+    "placeId": "ChIJIyJZ7KAlJxARd9WTYIq70Lo",
+    "reviewsCount": 21,
+    "totalScore": 3.3,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.60302,
+    "longitude": 0.48933
+  },
+  {
+    "title": "Sogakope Beach Resort and Spa",
+    "placeId": "ChIJ_____-PhIBARmphv4alYsNY",
+    "reviewsCount": 309,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.9994168,
+    "longitude": 0.59662
+  },
+  {
+    "title": "Tsarley Korpey Beach Resort",
+    "placeId": "ChIJS0kc0LEBIRARVZUArW-bC_Y",
+    "reviewsCount": 341,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.7811321,
+    "longitude": 0.642329
+  },
+  {
+    "title": "Villanavi Resort",
+    "placeId": "ChIJnd6K2ggDIRARin3xiQe4PWE",
+    "reviewsCount": 35,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Bar onsite",
+        "Good for kids",
+        "Restroom",
+        "Wi-Fi",
+        "Free Wi-Fi",
+        "waterfront"
+      ]
+    },
+    "latitude": 5.8606018,
+    "longitude": 0.6510375
+  },
+  {
+    "title": "Agblor Lodge Beach Resort",
+    "placeId": "ChIJkfea3p1xIRARV-H2ojI0-2c",
+    "reviewsCount": 25,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Pet-friendly",
+        "Beach",
+        "Free breakfast",
+        "Pool",
+        "Reastaurant"
+      ]
+    },
+    "latitude": 5.8974073,
+    "longitude": 0.9948827
+  },
+  {
+    "title": "Wilkado Royal Resort & Spa",
+    "placeId": "ChIJPXl3w2E4IRARB-9wCGVy-1k",
+    "reviewsCount": 139,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.1952084,
+    "longitude": 0.8899006
+  },
+  {
+    "title": "The Royal Senchi Resort/Hotel",
+    "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
+    "reviewsCount": 3432,
+    "totalScore": 4.5,
+    "hotelStars": "4-star hotel",
+    "price": 238.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Golf course",
+        "Bar"
+      ]
+    },
+    "latitude": 6.2195254,
+    "longitude": 0.0891466
+  },
+  {
+    "title": "ELI BEACH RESORT",
+    "placeId": "ChIJJ9Vw2VFzIRARXEZoErmQqus",
+    "reviewsCount": 376,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 72,
+    "experience": {
+      "amenities":[
+        "beach access",
+        "pool",
+        "spa",
+        "free parking",
+        "restaurant"
+      ]
+    },
+    "latitude": 5.8451766,
+    "longitude": 0.9815336
+  },
+  {
+    "title": "Tarso Hotel",
+    "placeId": "ChIJ18ss3xklJxARDoEi1sfNBk8",
+    "reviewsCount": 103,
+    "totalScore": 3.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.610329,
+    "longitude": 0.4723415
+  },
+  {
+    "title": "Time Bell Hotel",
+    "placeId": "ChIJ6WJAbIUwJxARooPmkQwwsUY",
+    "reviewsCount": 31,
+    "totalScore": 3.8,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.5691619,
+    "longitude": 0.4048661
+  },
+  {
+    "title": "Resort Cocojumbo",
+    "placeId": "ChIJq7qmRxbhIBARq8zsio8nmLk",
+    "reviewsCount": 27,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": 30,
+    "experience": {
+      "amenities":[
+        "waterfront",
+        "pool",
+        "restaurant",
+        "free parking",
+        "laundry"
+      ]
+    },
+    "latitude": 6.0112432,
+    "longitude": 0.5459213
+  },
+  {
+    "title": "Hotel Stevens, Ho Volta Region",
+    "placeId": "ChIJEfr6OUclJxARV61rXhG8eDo",
+    "reviewsCount": 1068,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.5979208,
+    "longitude": 0.4634208
+  },
+  {
+    "title": "Skyplus Hotel and Resort",
+    "placeId": "ChIJN38EvjklJxARU91_HfNoKdw",
+    "reviewsCount": 994,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 50,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 6.6143009,
+    "longitude": 0.4519249
+  },
+  {
+    "title": "Volta Paradise Hotel",
+    "placeId": "ChIJi9aAPDc8IRAR-O2knuOB7-M",
+    "reviewsCount": 69,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.1184481,
+    "longitude": 0.8142073
+  },
+  {
+    "title": "Freedom Hotel",
+    "placeId": "ChIJxa1Ek-MkJxARMCoWOWvpXOs",
+    "reviewsCount": 1052,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": 28,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Fitness center",
+        "Bar",
+        "Smoke-free",
+        "Volta tour"
+      ]
+    },
+    "latitude": 6.6250288,
+    "longitude": 0.4748708
+  },
+  {
+    "title": "Atlantic Breeze Beach Hotel Aflao",
+    "placeId": "ChIJBzHcyKdfIRAR1tjSmyNsSuw",
+    "reviewsCount": 155,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 34,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar",
+        "Beach access"
+      ]
+    },
+    "latitude": 6.106923,
+    "longitude": 1.1843345
+  },
+  {
+    "title": "Volta Vicharles Hotel",
+    "placeId": "ChIJBykl8UMlJxARFb9zt0VUb9k",
+    "reviewsCount": 272,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": 30,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Greens and Mountains"
+      ]
+    },
+    "latitude": 6.592883,
+    "longitude": 0.465933
+  },
+  {
+    "title": "Aborigines Beach Resort",
+    "placeId": "ChIJj0XDgR1uIRARsfJtdaKy5L0",
+    "reviewsCount": 1269,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 71,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.8984292,
+    "longitude": 0.9940566
+  },
+  {
+    "title": "Meet Me There African Home Lodge (not-for-profit)",
+    "placeId": "ChIJ2WK8YoAIIRARbssOcsfH8Yo",
+    "reviewsCount": 343,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Parking",
+        "Pool",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.7723558,
+    "longitude": 0.7556075
+  },
+  {
+    "title": "Villa Awoyo Resort",
+    "placeId": "ChIJB7M-5gXhIBAROZGlvM3_4DY",
+    "reviewsCount": 146,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": 93,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Business center",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center",
+        "Bar",
+        "Smoke-free",
+        "waterfront"
+      ]
+    },
+    "latitude": 5.9941531,
+    "longitude": 0.5917681
+  },
+  {
+    "title": "The Chill River Resort",
+    "placeId": "ChIJLXzH5B8JIRARR7ZmTwkjDKI",
+    "reviewsCount": 139,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 129,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Business center",
+        "Restaurant",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Smoke-free",
+        "Golf course",
+        "waterfront"
+      ]
+    },
+    "latitude": 5.8028125,
+    "longitude": 0.7295625
+  },
+  {
+    "title": "Volta Serene Hotel",
+    "placeId": "ChIJJRyWHSwlJxARei5Z4WO9WOs",
+    "reviewsCount": 1959,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 690,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 6.614448,
+    "longitude": 0.4544482
+  },
+  {
+    "title": "Western Royale Lodge",
+    "placeId": "ChIJta2Ed6pv3Q8R_4ahmvAfYEY",
+    "reviewsCount": 68,
+    "totalScore": 4.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.2344727,
+    "longitude": -2.0104275
+  },
+  {
+    "title": "Planters Lodge and Spa",
+    "placeId": "ChIJM6HpFVJ35w8RWtD6JoMMBO8",
+    "reviewsCount": 420,
+    "totalScore": 4.1,
+    "hotelStars": "4-star hotel",
+    "price": 185,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 4.8825469,
+    "longitude": -1.7579037
+  },
+  {
+    "title": "The kamb Hotel",
+    "placeId": "ChIJjwNyz-yZ3w8RRXl5cR6iNDI",
+    "reviewsCount": 26,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5869571,
+    "longitude": -0.2934239
+  },
+  {
+    "title": "Cocktail and Dreams Hotel",
+    "placeId": "ChIJNa5mxEeF3w8RxQBQBQJuoFg",
+    "reviewsCount": 386,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 52.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5822756,
+    "longitude": -0.1395769
+  },
+  {
+    "title": "Hotel de Sunshine",
+    "placeId": "ChIJ20nE-VCX3w8RzFan-0SfVlw",
+    "reviewsCount": 99,
+    "totalScore": 3.5,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5539101,
+    "longitude": -0.2320332
+  },
+  {
+    "title": "Urbano Hotel",
+    "placeId": "ChIJeeKbuIOa3w8RroA-FfiZmyI",
+    "reviewsCount": 743,
+    "totalScore": 4.1,
+    "hotelStars": "3-star hotel",
+    "price": 88.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5651636,
+    "longitude": -0.1810172
+  },
+  {
+    "title": "Green Oak Hotel",
+    "placeId": "ChIJD-dZXHqQ3w8RSAsMfnNaNZo",
+    "reviewsCount": 108,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Air-conditioned",
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.5542991,
+    "longitude": -0.1789925
+  },
+  {
+    "title": "The Father's Hotel",
+    "placeId": "ChIJo1QvXMOF3w8RwjxIkF_09YI",
+    "reviewsCount": 41,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.5877274,
+    "longitude": -0.0843615
+  },
+  {
+    "title": "Milton Hotel",
+    "placeId": "ChIJAU8Orj6Z3w8RbV8YmbY1pqM",
+    "reviewsCount": 371,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.6299248,
+    "longitude": -0.2471522
+  },
+  {
+    "title": "Holiday Inn Accra Airport, an IHG Hotel",
+    "placeId": "ChIJOy_YmeKa3w8RbMzLSjjA8gw",
+    "reviewsCount": 5356,
+    "totalScore": 4.3,
+    "hotelStars": "3-star hotel",
+    "price": 145.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.6005796,
+    "longitude": -0.1763632
+  },
+  {
+    "title": "Legacy hotel",
+    "placeId": "ChIJ5yvq2_WZ3w8R280MPIU42HY",
+    "reviewsCount": 135,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.5776724,
+    "longitude": -0.2259999
+  },
+  {
+    "title": "Lou-Ralph Hotel",
+    "placeId": "ChIJEUtRigOc3w8RsmCM7NJbKH8",
+    "reviewsCount": 282,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 30.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.6526603,
+    "longitude": -0.2193319
+  },
+  {
+    "title": "Grand View Hotel",
+    "placeId": "ChIJKZn5VrqQ3w8R_0xZ0qVfKt0",
+    "reviewsCount": 669,
+    "totalScore": 3.8,
+    "hotelStars": "3-star hotel",
+    "price": 72.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5471504,
+    "longitude": -0.2125714
+  },
+  {
+    "title": "Blackmama beach resort",
+    "placeId": "ChIJZ-JzRjeF3w8RAkfhnXjXdrE",
+    "reviewsCount": 27,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5850404,
+    "longitude": -0.0907342
+  },
+  {
+    "title": "Kings Royal Atlantic Hotel",
+    "placeId": "ChIJ4_lbIQyQ3w8RP4SBeuz1RQ4",
+    "reviewsCount": 24,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 73.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Pool",
+        "Pet-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.555997,
+    "longitude": -0.1602129
+  },
+  {
+    "title": "Alora Beach Resort",
+    "placeId": "ChIJqYzfNFOF3w8Rb2DX3mKMmMY",
+    "reviewsCount": 38,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5654958,
+    "longitude": -0.1319466
+  },
+  {
+    "title": "Suma Court Hotel, Accra Ghana",
+    "placeId": "ChIJZyVHeT2c3w8RP4yL_06DW24",
+    "reviewsCount": 191,
+    "totalScore": 3.6,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.667281,
+    "longitude": -0.212693
+  },
+  {
+    "title": "Rayporsh Hotel",
+    "placeId": "ChIJvxpt5NWb3w8Rs0KeRKIQqSw",
+    "reviewsCount": 56,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 81.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.608581,
+    "longitude": -0.2236667
+  },
+  {
+    "title": "Number One Oxford Street Hotel & Suites",
+    "placeId": "ChIJX8Fw8IOa3w8RlKAmOw4PXk0",
+    "reviewsCount": 364,
+    "totalScore": 4.5,
+    "hotelStars": "5-star hotel",
+    "price": 235.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchen in all rooms",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.5665354,
+    "longitude": -0.1811801
+  },
+  {
+    "title": "Golden Crystal Experience Hotel",
+    "placeId": "ChIJl04zw1WD3w8RcWZew6B1iug",
+    "reviewsCount": 186,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 35.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.6471896,
+    "longitude": -0.1454373
+  },
+  {
+    "title": "Highgate Hotel",
+    "placeId": "ChIJDzeQ73Ga3w8Rz7tN-zKLK1c",
+    "reviewsCount": 312,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 139,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.5715588,
+    "longitude": -0.2003216
+  },
+  {
+    "title": "Alisa Hotel North Ridge",
+    "placeId": "ChIJnaDQdnCa3w8RvXK__qqywCo",
+    "reviewsCount": 5650,
+    "totalScore": 4.4,
+    "hotelStars": "4-star hotel",
+    "price": 124.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5705023,
+    "longitude": -0.1968936
+  },
+  {
+    "title": "Osekan Beach Resort",
+    "placeId": "ChIJn7185eyR3w8RjUEHi3X5siI",
+    "reviewsCount": 208,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities":[
+        "beach access"
+      ]
+    },
+    "latitude": 5.5400606,
+    "longitude": -0.2055556
+  },
+  {
+    "title": "The Aknac Hotel",
+    "placeId": "ChIJydp2pn-D3w8RuYlo9qnD7XU",
+    "reviewsCount": 763,
+    "totalScore": 3.9,
+    "hotelStars": "4-star hotel",
+    "price": 87.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle"
+      ]
+    },
+    "latitude": 5.6490586,
+    "longitude": -0.1157869
+  },
+  {
+    "title": "Monarch Hotel",
+    "placeId": "ChIJ0TA372Sb3w8RANBG1xTBtD8",
+    "reviewsCount": 256,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": 73.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Bar"
+      ]
+    },
+    "latitude": 5.6456203,
+    "longitude": -0.1613216
+  },
+  {
+    "title": "Grand Casamora Hotel",
+    "placeId": "ChIJN1KbHF6D3w8RIGYExaWSW-o",
+    "reviewsCount": 496,
+    "totalScore": 4.1,
+    "hotelStars": "4-star hotel",
+    "price": 55.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.6510458,
+    "longitude": -0.1311691
+  },
+  {
+    "title": "La Palm Royal Beach Hotel",
+    "placeId": "ChIJzZ9eQFaF3w8R8jAPGE7vyuM",
+    "reviewsCount": 5905,
+    "totalScore": 4.3,
+    "hotelStars": "4-star hotel",
+    "price": 166.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.562352,
+    "longitude": -0.142679
+  },
+  {
+    "title": "Accra Marriott Hotel",
+    "placeId": "ChIJs0_tTx2b3w8Rtpb29CT3SJo",
+    "reviewsCount": 5835,
+    "totalScore": 4.5,
+    "hotelStars": "5-star hotel",
+    "price": 218.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Paid breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.6049869,
+    "longitude": -0.1766104
+  },
+  {
+    "title": "Lancaster Accra",
+    "placeId": "ChIJYTQWDvqa3w8RJZFE5rbKNfA",
+    "reviewsCount": 6347,
+    "totalScore": 4.4,
+    "hotelStars": "4-star hotel",
+    "price": 190.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5934084,
+    "longitude": -0.1807772
+  },
+  {
+    "title": "Kempinski Hotel Gold Coast City Accra",
+    "placeId": "ChIJAcTuKJuQ3w8Rl38ROfnzGGo",
+    "reviewsCount": 9300,
+    "totalScore": 4.6,
+    "hotelStars": "5-star hotel",
+    "price": 251.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.5541221,
+    "longitude": -0.1979295
+  },
+  {
+    "title": "Best Western Plus Accra Beach Hotel",
+    "placeId": "ChIJm9eR2HuG3w8RZCzN1z4kubo",
+    "reviewsCount": 1961,
+    "totalScore": 4.3,
+    "hotelStars": "3-star hotel",
+    "price": 68.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.596587,
+    "longitude": -0.069829
+  },
+  {
+    "title": "Royal Dede Beach Resort",
+    "placeId": "ChIJEyxQ4C2X3w8RxDkuZ9-_-AE",
+    "reviewsCount": 377,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5288851,
+    "longitude": -0.229026
+  },
+  {
+    "title": "Oceanic Resort",
+    "placeId": "ChIJj45YkS2X3w8Rw6b6iPrsdi8",
+    "reviewsCount": 1394,
+    "totalScore": 4.1,
+    "hotelStars": "3-star hotel",
+    "price": 102,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5292987,
+    "longitude": -0.2260043
+  },
+  {
+    "title": "Golden Beach Resort",
+    "placeId": "ChIJr6FSdi2X3w8RnjyparkT75I",
+    "reviewsCount": 107,
+    "totalScore": 3.6,
+    "hotelStars": null,
+    "price": 32,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "beach access"
+      ]
+    },
+    "latitude": 5.5294152,
+    "longitude": -0.2264129
+  },
+  {
+    "title": "Ramada Resort Accra Coco Beach",
+    "placeId": "ChIJR_F0pCSU2w8RaD8HbEYMBZM",
+    "reviewsCount": 613,
+    "totalScore": 3.7,
+    "hotelStars": "3-star hotel",
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5864424,
+    "longitude": -0.0869581
+  },
+  {
+    "title": "Rising Phoenix Magic Beach Resort",
+    "placeId": "ChIJ8QycOJWQ3w8RTvbJ89Uqi1c",
+    "reviewsCount": 192,
+    "totalScore": 3.5,
+    "hotelStars": "2-star hotel",
+    "price": 8.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Pool",
+        "Laundry service",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5417771,
+    "longitude": -0.205328
+  },
+  {
+    "title": "Fiesta Royale Hotel",
+    "placeId": "ChIJ_wwfqqab3w8RumdRZv1Ig6I",
+    "reviewsCount": 5486,
+    "totalScore": 4.4,
+    "hotelStars": "4-star hotel",
+    "price": 207.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.618945,
+    "longitude": -0.191889
+  },
+  {
+    "title": "Labadi Beach Hotel",
+    "placeId": "ChIJzXBPWliF3w8R5C36QUOi5mg",
+    "reviewsCount": 9591,
+    "totalScore": 4.5,
+    "hotelStars": "5-star hotel",
+    "price": 219.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Beach access",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.563936,
+    "longitude": -0.1382485
+  },
+  {
+    "title": "Hotel loreto",
+    "placeId": "ChIJ_VghOeX73Q8R87KCtXQoaZg",
+    "reviewsCount": 306,
+    "totalScore": 3.5,
+    "hotelStars": "3-star hotel",
+    "price": 27,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.1508384,
+    "longitude": -1.2995721
+  },
+  {
+    "title": "Orange Beach Resort",
+    "placeId": "ChIJT6ZrV1L-3Q8REqgBfrbshCM",
+    "reviewsCount": 158,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": 22.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Parking",
+        "Pool",
+        "Beach access",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.1031634,
+    "longitude": -1.2428486
+  },
+  {
+    "title": "Alinda Hotel",
+    "placeId": "ChIJf0Cwdz4lJxARji5B9RWsuvw",
+    "reviewsCount": 42,
+    "totalScore": 3.1,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {},
+    "latitude": 6.6046964,
+    "longitude": 0.4674557
+  },
+  {
+    "title": "Splendid Hotel Tegbi Ghana",
+    "placeId": "ChIJJd8apnlzIRARUO2qhDzVtkA",
+    "reviewsCount": 89,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.8464257,
+    "longitude": 0.9758547
+  },
+  {
+    "title": "Volta Safari Guest House",
+    "placeId": "ChIJXUxuzLulIBARo6cuN1J1v6I",
+    "reviewsCount": 35,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2086077,
+    "longitude": 0.098877
+  },
+  {
+    "title": "Movenpick Ambassador Hotel Accra",
+    "placeId": "ChIJF-YOBZmQ3w8RPYmht7WHGOw",
+    "reviewsCount": 9465,
+    "totalScore": 4.5,
+    "hotelStars": "5-star hotel",
+    "price": 212.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Paid breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.5544095,
+    "longitude": -0.2026337
+  },
+  {
+    "title": "Salenko Beach Resort",
+    "placeId": "ChIJvR3_bMSQ3w8Rkaqueh1zoYM",
+    "reviewsCount": 58,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.5396208,
+    "longitude": -0.2064516
+  },
+  {
+    "title": "Hillburi",
+    "placeId": "ChIJeTnHxwVx3w8RPL5k90qYuyI",
+    "reviewsCount": 1257,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 125.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.8276147,
+    "longitude": -0.1844512
+  },
+  {
+    "title": "The FLOAT",
+    "placeId": "ChIJ7XeQ0OGpIBAR7kupYMNEPSA",
+    "reviewsCount": 172,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 55,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Fitness center",
+        "Bar",
+        "Smoke-free",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2980265,
+    "longitude": 0.03101
+  },
+  {
+    "title": "Beige Village Golf Resort & Spa",
+    "placeId": "ChIJ6xZ_ouuz3g8REI-EZRT0DEQ",
+    "reviewsCount": 46,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 62,
+    "experience": {
+      "amenities":[
+        "pool",
+        "greens and mountains",
+        "restaurant"
+      ]
+    },
+    "latitude": 6.3397819,
+    "longitude": -0.9975905
+  },
+  {
+    "title": "Aylos Bay Garden Restaurant & Lodge",
+    "placeId": "ChIJV5EB4l2vIBARXH97YYr0Ygo",
+    "reviewsCount": 344,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": 45,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2439045,
+    "longitude": 0.0921707
+  },
+  {
+    "title": "Blue Royal Hotel, Larteh",
+    "placeId": "ChIJpydwbHdj3w8RM4Y8w52voM0",
+    "reviewsCount": 483,
+    "totalScore": 3.9,
+    "hotelStars": "3-star hotel",
+    "price": 68,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Greens and mountains"
+      ]
+    },
+    "latitude": 5.9373755,
+    "longitude": -0.0643552
+  },
+  {
+    "title": "Bella Vista Luxury Guesthouse",
+    "placeId": "ChIJUWCjFhpk3w8RoCObaELAu-4",
+    "reviewsCount": 32,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.9737468,
+    "longitude": -0.0878036
+  },
+  {
+    "title": "COUNTRY LODGE",
+    "placeId": "ChIJw2wyhRYN3w8RkFEe0T1-EJI",
+    "reviewsCount": 279,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 5.8252609,
+    "longitude": -0.3353003
+  },
+  {
+    "title": "Adwoa Asantewaa Memorial Hotel",
+    "placeId": "ChIJ3XAgys0m3w8ReBqaVpqX18U",
+    "reviewsCount": 159,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.1564897,
+    "longitude": -0.5520753
+  },
+  {
+    "title": "Eastern Premier Hotel Koforidua",
+    "placeId": "ChIJ17Mv6WJq3w8RB4TkH7oNLuY",
+    "reviewsCount": 1464,
+    "totalScore": 4.2,
+    "hotelStars": null,
+    "price": 53,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 6.0536823,
+    "longitude": -0.2617503
+  },
+  {
+    "title": "Peduase Valley Resort",
+    "placeId": "ChIJq6qqqvZw3w8RcIPB5KSYpUM",
+    "reviewsCount": 3090,
+    "totalScore": 4.5,
+    "hotelStars": "4-star hotel",
+    "price": 234,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Bar",
+        "Greens and Mountains"
+      ]
+    },
+    "latitude": 5.8084059,
+    "longitude": -0.1859351
+  },
+  {
+    "title": "Rock City, The Ultimate Destination",
+    "placeId": "ChIJyYCIRksh2Q8RUXhawOsF5Ao",
+    "reviewsCount": 133,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.628563,
+    "longitude": -0.7365849
+  },
+  {
+    "title": "JAYS Lodge",
+    "placeId": "ChIJHbwLmcM62Q8RKaIrRDsraf8",
+    "reviewsCount": 100,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.6066325,
+    "longitude": -0.7685025
+  },
+  {
+    "title": "3As Guest House",
+    "placeId": "ChIJ4Z5VoyKpIBAR-2hbsfKEISc",
+    "reviewsCount": 114,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": 48.53,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 6.2538178,
+    "longitude": 0.043826
+  },
+  {
+    "title": "Cozy Ridge",
+    "placeId": "ChIJayMSAqpl3w8RqJAuwCzoXvQ",
+    "reviewsCount": 131,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.9413474,
+    "longitude": -0.116666
+  },
+  {
+    "title": "Duapa Lodge",
+    "placeId": "ChIJRV7YuYEL3w8RM4u9t2A9AWU",
+    "reviewsCount": 93,
+    "totalScore": 3.8,
+    "hotelStars": null,
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 5.8108906,
+    "longitude": -0.3385424
+  },
+  {
+    "title": "Tonyx Hotel Suites and Spa",
+    "placeId": "ChIJx32C_4JB3w8RRey76JVNx7Q",
+    "reviewsCount": 188,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 47,
+    "experience": {
+      "amenities":[
+        "spa",
+        "pool",
+        "bar",
+        "restaurant"
+      ]
+    },
+    "latitude": 6.1011875,
+    "longitude": -0.2833125
+  },
+  {
+    "title": "Mekandi Riverside Resort",
+    "placeId": "ChIJK1io2mKjIBARVgMpKdmhkRI",
+    "reviewsCount": 163,
+    "totalScore": 4.1,
+    "hotelStars": null,
+    "price": 64,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "waterfront",
+        "greens and mountains"
+      ]
+    },
+    "latitude": 6.1506626,
+    "longitude": 0.1220168
+  },
+  {
+    "title": "Aburi Eco Resort",
+    "placeId": "ChIJu4jUuiJx3w8RLKlqNb_f0RA",
+    "reviewsCount": 45,
+    "totalScore": 4.4,
+    "hotelStars": null,
+    "price": 30,
+    "experience": {
+      "amenities":[
+        "greens and mountains",
+        "camping",
+        "free breakfast",
+        "restaurant"
+      ]
+    },
+    "latitude": 5.8348125,
+    "longitude": -0.2586875
+  },
+  {
+    "title": "Volta Hotel Akosombo",
+    "placeId": "ChIJKWfrTPCoIBAR3oG7N_OqKMI",
+    "reviewsCount": 1367,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": 148.98,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Paid breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Spa",
+        "Golf course",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 6.2893769,
+    "longitude": 0.0552344
+  },
+  {
+    "title": "Anum Resort",
+    "placeId": "ChIJMcpZVfpRJxARLztUtVB2aHI",
+    "reviewsCount": 21,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 25,
+    "experience": {
+      "amenities": [
+        "Free parking",
+        "Pet-friendly",
+        "Kid-friendly",
+        "greens and mountains"
+      ]
+    },
+    "latitude": 6.5009189,
+    "longitude": 0.142474
+  },
+  {
+    "title": "Ridge Nest Hotel (RNH)",
+    "placeId": "ChIJm4ARv3Bn3w8RRImqoZEMm-k",
+    "reviewsCount": 60,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 120,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Room service",
+        "Restaurant",
+        "Bar",
+        "Greens"
+      ]
+    },
+    "latitude": 6.0164365,
+    "longitude": -0.0830618
+  },
+  {
+    "title": "Rock City Hotel",
+    "placeId": "ChIJnyJ23VAl2Q8RD6YmR29M6tY",
+    "reviewsCount": 1201,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": 118.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Pool",
+        "Laundry service",
+        "Restaurant",
+        "Spa",
+        "Fitness center"
+      ]
+    },
+    "latitude": 6.6161858,
+    "longitude": -0.7409569
+  },
+  {
+    "title": "Akosombo Continental Hotel",
+    "placeId": "ChIJh0R9El6vIBARhHnxZbRvyts",
+    "reviewsCount": 503,
+    "totalScore": 3.8,
+    "hotelStars": "3-star hotel",
+    "price": 56,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Greens and Mountains",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2421015,
+    "longitude": 0.0929902
+  },
+  {
+    "title": "Resort",
+    "placeId": "ChIJH9B5AL-lIBARCAJdXs_Lbms",
+    "reviewsCount": 69,
+    "totalScore": 3.5,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free parking",
+        "Pool",
+        "Kid-friendly",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Airport shuttle",
+        "Fitness center"
+      ]
+    },
+    "latitude": 6.198333,
+    "longitude": 0.067468
+  },
+  {
+    "title": "Adi Lake Resort",
+    "placeId": "ChIJ-1_qrF2vIBARrRVMsFr7icQ",
+    "reviewsCount": 286,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 48,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2451779,
+    "longitude": 0.0916613
+  },
+  {
+    "title": "AFRIKIKO RIVER FRONT RESORT",
+    "placeId": "ChIJzV6VKCCpIBARrWXPh1KRqQs",
+    "reviewsCount": 1347,
+    "totalScore": 4.0,
+    "hotelStars": "3-star hotel",
+    "price": 103,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "waterfront"
+      ]
+    },
+    "latitude": 6.2668178,
+    "longitude": 0.0749848
+  },
+  {
+    "title": "Riverside Valley Hotel",
+    "placeId": "ChIJq0Wmb5Rh3w8R0zG7ggXbixo",
+    "reviewsCount": 27,
+    "totalScore": 3.7,
+    "hotelStars": null,
+    "price": 13,
+    "experience": {
+      "amenities": [
+        "Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Air-conditioned",
+        "Kid-friendly",
+        "Restaurant",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 5.9998373,
+    "longitude": -0.0217251
+  },
+  {
+    "title": "Small World Hotel",
+    "placeId": "ChIJld5iKg2hIBARVTEUTKe6sL8",
+    "reviewsCount": 69,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 15.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Room service",
+        "Restaurant",
+        "Kitchens in some rooms",
+        "Fitness center",
+        "Bar"
+      ]
+    },
+    "latitude": 6.1338525,
+    "longitude": 0.0502489
+  },
+  {
+    "title": "Modak Royal Hotel",
+    "placeId": "ChIJHyW24zwj2Q8RPfFxJRMXPrc",
+    "reviewsCount": 171,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Air-conditioned",
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.6926716,
+    "longitude": -0.7366489
+  },
+  {
+    "title": "The Peninsula Resort",
+    "placeId": "ChIJh0DtbpupIBARCpA13VQUjgU",
+    "reviewsCount": 271,
+    "totalScore": 4.4,
+    "hotelStars": 177,
+    "price": null,
+    "experience": {
+      "amenities":[
+        "spa",
+        "free breakfast",
+        "pool",
+        "tennis",
+        "golf course",
+        "restaurant",
+        "bar",
+        "Greens and Mountains"
+      ]
+    },
+    "latitude": 6.3095964,
+    "longitude": 0.0331131
+  },
+  {
+    "title": "Hill Palace Hotel",
+    "placeId": "ChIJw_AZXiB33w8RpoJ-lkT7eLs",
+    "reviewsCount": 432,
+    "totalScore": 4.0,
+    "hotelStars": "3-star hotel",
+    "price": null,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Kid-friendly",
+        "Restaurant",
+        "Bar",
+        "Greens and Mountains"
+      ]
+    },
+    "latitude": 5.7955373,
+    "longitude": -0.1857995
+  },
+  {
+    "title": "Paradise Resort",
+    "placeId": "ChIJ3-nP7nYu3w8RkiPMIO8HqRs",
+    "reviewsCount": 1855,
+    "totalScore": 4.0,
+    "hotelStars": null,
+    "price": null,
+    "experience": {},
+    "latitude": 6.3187376,
+    "longitude": -0.4754241
+  },
+  {
+    "title": "Safari Valley Resort",
+    "placeId": "ChIJ0zUYpupn3w8R0KOcdzVEsn8",
+    "reviewsCount": 141,
+    "totalScore": 4.6,
+    "hotelStars": null,
+    "price": 430.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Business center",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Spa",
+        "Fitness center",
+        "Golf course",
+        "Bar",
+        "Smoke-free"
+      ]
+    },
+    "latitude": 5.9951446,
+    "longitude": -0.1025718
+  },
+  {
+    "title": "Nelsban Palace Hotel",
+    "placeId": "ChIJjcsDnwU63w8RfLL8ay0BdLE",
+    "reviewsCount": 210,
+    "totalScore": 3.7,
+    "hotelStars": "2-star hotel",
+    "price": 15,
+    "experience": {
+      "amenities": [
+        "Kid-friendly",
+        "Greens"
+      ]
+    },
+    "latitude": 6.2296973,
+    "longitude": -0.3832914
+  },
+  {
+    "title": "BEIGE Village Golf Resort & Spa",
+    "placeId": "ChIJ_____-uz3g8R1G1_rRV22Qs",
+    "reviewsCount": 381,
+    "totalScore": 3.9,
+    "hotelStars": null,
+    "price": 62.0,
+    "experience": {
+      "amenities": [
+        "Kid-friendly"
+      ]
+    },
+    "latitude": 6.3462406,
+    "longitude": -1.0017878
+  },
+  {
+    "title": "The Lansdown Resort, Aburi-Ghana",
+    "placeId": "ChIJD2Plzc923w8RdAQWXdXjYzk",
+    "reviewsCount": 303,
+    "totalScore": 4.2,
+    "hotelStars": "3-star hotel",
+    "price": 150,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Bar",
+        "Golf course",
+        "Greens and Mountains"
+      ]
+    },
+    "latitude": 5.8058686,
+    "longitude": -0.1969076
+  },
+  {
+    "title": "BridgeView Resort",
+    "placeId": "ChIJFTAN5ImvIBARJ1BJu04amhA",
+    "reviewsCount": 713,
+    "totalScore": 4.5,
+    "hotelStars": null,
+    "price": 177.0,
+    "experience": {
+      "amenities":[
+        "Greens and Mountains",
+        "waterfront",
+        "pool",
+        "Reastaurant",
+        "Bar"
+      ]
+    },
+    "latitude": 6.2384595,
+    "longitude": 0.0912979
+  },
+  {
+    "title": "Cactus Creek Hotel Ghana",
+    "placeId": "ChIJpZxowXpx3w8RsyC642zhEjk",
+    "reviewsCount": 296,
+    "totalScore": 4.3,
+    "hotelStars": null,
+    "price": 84.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Pool",
+        "Laundry service",
+        "Restaurant",
+        "Fitness center"
+      ]
+    },
+    "latitude": 5.844214,
+    "longitude": -0.1650455
+  },
+  {
+    "title": "The Royal Senchi Resort/Hotel",
+    "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
+    "reviewsCount": 3432,
+    "totalScore": 4.5,
+    "hotelStars": "4-star hotel",
+    "price": 245.0,
+    "experience": {
+      "amenities": [
+        "Free Wi-Fi",
+        "Free breakfast",
+        "Free parking",
+        "Accessible",
+        "Outdoor pool",
+        "Air-conditioned",
+        "Laundry service",
+        "Pet-friendly",
+        "Room service",
+        "Kid-friendly",
+        "Restaurant",
+        "Airport shuttle",
+        "Hot tub",
+        "Spa",
+        "Fitness center",
+        "Golf course",
+        "Bar"
+      ]
+    },
+    "latitude": 6.2195254,
+    "longitude": 0.0891466
+  }
+]

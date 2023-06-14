@@ -1,0 +1,7 @@
+.venv/
+notebooks/checkpoints/
+notebooks/checkpoints.json
+notebooks/Aspect Term Extraction and Polarity Classification.FAST_LCF_ATEPC.result.json
+data/comments.csv.apc
+data/comments.csv.atepc
+data/english
