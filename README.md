@@ -17,6 +17,34 @@ The Destination Recommender Application is a project aimed at providing personal
 
 This serves as documentation for this data science project that involves data collection and manipulation, machine learning models, API development, and web application development. This document is aimed at providing a comprehensive guide on the various components involved, their functionalities, and how they interact with each other.
 
+## Skills
+
+- NLP
+- Recommender systems
+- ABSA
+- Document clustering
+- Web scraping
+- Data Cleaning
+- API development
+- Data modelling/ storage
+
+## Frameworks
+
+- NLTK
+- PyABSA
+- Scikit-learn
+- Pandas
+- Numpy
+- Gensim
+- FastAPI
+- MySQL Python connector
+
+## Languages
+
+- Python
+- SQL
+- HTML/CSS
+
 # Data Collection & Manipulation
 
 Data of destinations were scraped from the web using APIFY's python client. The json data was then transform into three dataframes with: destination bio, destination metrics and destination reviews.
