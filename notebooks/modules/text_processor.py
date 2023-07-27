@@ -1,19 +1,19 @@
+from textblob import TextBlob, Word
+from nltk.util import ngrams
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 stop = set(stopwords.words('english'))
-from nltk.util import ngrams
-from textblob import TextBlob,Word
-
 
 
 def remove_stopwords(tokens):
     # sourcery skip: inline-immediately-returned-variable, list-comprehension
-    filtered =[]
+    filtered = []
     for word in tokens:
-      if word not in stop:
-        filtered.append(word)
+        if word not in stop:
+            filtered.append(word)
     return filtered
+
 
 def lemmatizer(sent_list):
     lemmatized_tokens = []
@@ -21,6 +21,7 @@ def lemmatizer(sent_list):
         lemma_tokens = [Word(word).lemmatize() for word in sent]
         lemmatized_tokens.append(lemma_tokens)
     return lemmatized_tokens
+
 
 def unigram_tokenizer(sent_list):
     unigram_tokens = []
@@ -30,13 +31,13 @@ def unigram_tokenizer(sent_list):
         unigram_tokens.append(new_line)
     return lemmatizer(unigram_tokens)
 
+
 def bigram_tokenizer(sent_list):
     # sourcery skip: for-append-to-extend, identity-comprehension, inline-immediately-returned-variable, list-comprehension, simplify-generator
-    bigram_tokens =[]
+    bigram_tokens = []
     tokenized_data = unigram_tokenizer(sent_list)
     for item in tokenized_data:
         bigrams = list(ngrams(item, 2))
         new_item = [" ".join(token) for token in bigrams]
         bigram_tokens.append(new_item)
     return bigram_tokens
-
