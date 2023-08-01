@@ -4,7 +4,7 @@
     "reviewsCount": 145,
     "totalScore": 4.3,
     "hotelStars": null,
-    "price": 35.55,
+    "price": 36.0,
     "experience": {
       "amenities": [
         "Kid-friendly",
@@ -12,24 +12,26 @@
       ]
     },
     "latitude": 4.8294648,
-    "longitude": -1.8985344
+    "longitude": -1.8985344,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJL7Hywp7x5w8RFvPm-57fTwc",
     "reviewsCount": 44,
     "totalScore": 4.4,
     "hotelStars": null,
-    "price": 35.35,
+    "price": 35.0,
     "experience": {},
     "latitude": 4.901078,
-    "longitude": -2.2673678
+    "longitude": -2.2673678,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJ65dVOS545w8RKPIMAlGWpoM",
     "reviewsCount": 175,
     "totalScore": 4.0,
     "hotelStars": null,
-    "price": 49.69,
+    "price": 50.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -47,14 +49,15 @@
       ]
     },
     "latitude": 4.9007445,
-    "longitude": -1.7997524
+    "longitude": -1.7997524,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJEZ9Mgn135w8RpR6bnAqgfrI",
     "reviewsCount": 955,
     "totalScore": 4.2,
     "hotelStars": null,
-    "price": 100.27,
+    "price": 100.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -75,14 +78,15 @@
       ]
     },
     "latitude": 4.8787809,
-    "longitude": -1.7698664
+    "longitude": -1.7698664,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJ8T_3y1J35w8RYE3GQFSxYUs",
     "reviewsCount": 3537,
     "totalScore": 4.4,
     "hotelStars": "4-star hotel",
-    "price": 130.31,
+    "price": 130.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -106,14 +110,15 @@
       ]
     },
     "latitude": 4.8812416,
-    "longitude": -1.7556486
+    "longitude": -1.7556486,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJ65Ey9lN35w8RQ0mxElFzJ5E",
     "reviewsCount": 396,
     "totalScore": 4.5,
     "hotelStars": "3-star hotel",
-    "price": 129.16,
+    "price": 129.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -133,7 +138,8 @@
       ]
     },
     "latitude": 4.8860426,
-    "longitude": -1.75795
+    "longitude": -1.75795,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJd3kLdGdl5w8RSVyKzAGSp9E",
@@ -143,7 +149,8 @@
     "price": null,
     "experience": {},
     "latitude": 4.9855676,
-    "longitude": -1.6574058
+    "longitude": -1.6574058,
+    "price_bins": null
   },
   {
     "placeId": "ChIJTeg3vEX-3Q8RuTES9L2KutU",
@@ -163,7 +170,8 @@
       ]
     },
     "latitude": 5.110938,
-    "longitude": -1.2403963
+    "longitude": -1.2403963,
+    "price_bins": null
   },
   {
     "placeId": "ChIJV0QBk_D-3Q8RdfQqvAta0Io",
@@ -177,7 +185,8 @@
       ]
     },
     "latitude": 5.1662839,
-    "longitude": -1.2960589
+    "longitude": -1.2960589,
+    "price_bins": null
   },
   {
     "placeId": "ChIJlyHzHtj-3Q8Rq6PsgUYfW9Y",
@@ -187,7 +196,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1012694,
-    "longitude": -1.2792765
+    "longitude": -1.2792765,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ5VyAhiGZ5w8RKN-oLKCZLGk",
@@ -208,7 +218,8 @@
       ]
     },
     "latitude": 4.8030391,
-    "longitude": -1.9403995
+    "longitude": -1.9403995,
+    "price_bins": null
   },
   {
     "placeId": "ChIJPR2vrct55w8Rz-6UQQC5VX8",
@@ -231,7 +242,8 @@
       ]
     },
     "latitude": 4.9215988,
-    "longitude": -1.7993866
+    "longitude": -1.7993866,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJI0mSeLN55w8RUKHAJp1hUn8",
@@ -241,7 +253,8 @@
     "price": null,
     "experience": {},
     "latitude": 4.917563,
-    "longitude": -1.790467
+    "longitude": -1.790467,
+    "price_bins": null
   },
   {
     "placeId": "ChIJxzTQ8Jca3Q8RHHsozchz1_c",
@@ -251,7 +264,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5698709,
-    "longitude": -2.0084281
+    "longitude": -2.0084281,
+    "price_bins": null
   },
   {
     "placeId": "ChIJbe0Pc2X75w8RLn6CypCYGmM",
@@ -265,7 +279,8 @@
       ]
     },
     "latitude": 4.9502854,
-    "longitude": -2.377138
+    "longitude": -2.377138,
+    "price_bins": null
   },
   {
     "placeId": "ChIJN22kQvsD6A8RklNAMj8nmEk",
@@ -275,7 +290,8 @@
     "price": 70.0,
     "experience": {},
     "latitude": 4.9808813,
-    "longitude": -2.5452314
+    "longitude": -2.5452314,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJFacf6Vp35w8Rrx2ZoispYgQ",
@@ -302,7 +318,8 @@
       ]
     },
     "latitude": 4.884571,
-    "longitude": -1.7640269
+    "longitude": -1.7640269,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJlVIRSzx45w8RAy0AZHwUds0",
@@ -331,7 +348,8 @@
       ]
     },
     "latitude": 4.9052519,
-    "longitude": -1.8099691
+    "longitude": -1.8099691,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJHc_kv9ib5w8R3_8PLD3Iw2I",
@@ -346,7 +364,8 @@
       ]
     },
     "latitude": 4.8099516,
-    "longitude": -1.9373327
+    "longitude": -1.9373327,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJu8DP01qW5w8RVYmDm41WpII",
@@ -361,7 +380,8 @@
       ]
     },
     "latitude": 4.756283,
-    "longitude": -2.038517
+    "longitude": -2.038517,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJl0XOjq_75w8RjLiwJw1nCSQ",
@@ -375,7 +395,8 @@
       ]
     },
     "latitude": 4.9348827,
-    "longitude": -2.3407605
+    "longitude": -2.3407605,
+    "price_bins": null
   },
   {
     "placeId": "ChIJQ0FjPVJ75w8RFHTTtSX5pB4",
@@ -399,7 +420,8 @@
       ]
     },
     "latitude": 4.9656324,
-    "longitude": -1.6812649
+    "longitude": -1.6812649,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJR1hgCHn75w8RBZxBZH3ezCc",
@@ -409,7 +431,8 @@
     "price": null,
     "experience": {},
     "latitude": 4.9323102,
-    "longitude": -2.3357221
+    "longitude": -2.3357221,
+    "price_bins": null
   },
   {
     "placeId": "ChIJqd5rsmSZ5w8R-mD1iF5LUqA",
@@ -423,7 +446,8 @@
       ]
     },
     "latitude": 4.8016611,
-    "longitude": -1.9389753
+    "longitude": -1.9389753,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJFREouQH_3Q8RlrE5Gdso5sQ",
@@ -433,7 +457,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1328885,
-    "longitude": -1.2798517
+    "longitude": -1.2798517,
+    "price_bins": null
   },
   {
     "placeId": "ChIJQUbWf-j-3Q8RCpBLOGNFmc4",
@@ -454,7 +479,8 @@
       ]
     },
     "latitude": 5.1107727,
-    "longitude": -1.2674199
+    "longitude": -1.2674199,
+    "price_bins": null
   },
   {
     "placeId": "ChIJi82O4Jr-3Q8RCzgVFxujWn8",
@@ -477,7 +503,8 @@
       ]
     },
     "latitude": 5.1338485,
-    "longitude": -1.2614823
+    "longitude": -1.2614823,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJVw5GORD_3Q8RHSHLYDq9jso",
@@ -487,7 +514,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1287792,
-    "longitude": -1.2720374
+    "longitude": -1.2720374,
+    "price_bins": null
   },
   {
     "placeId": "ChIJe9Yh3-n-3Q8RSf5BJK58oYc",
@@ -497,7 +525,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1143539,
-    "longitude": -1.2697078
+    "longitude": -1.2697078,
+    "price_bins": null
   },
   {
     "placeId": "ChIJrVsvCmD-3Q8RvNNUH75UNa0",
@@ -518,7 +547,8 @@
       ]
     },
     "latitude": 5.1214737,
-    "longitude": -1.2495459
+    "longitude": -1.2495459,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJkUuF9RL_3Q8RTcfF5QaeZL0",
@@ -528,7 +558,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1373747,
-    "longitude": -1.2660238
+    "longitude": -1.2660238,
+    "price_bins": null
   },
   {
     "placeId": "ChIJKbo67Pj-3Q8RVdkX8sLzdbc",
@@ -538,7 +569,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1072771,
-    "longitude": -1.2520464
+    "longitude": -1.2520464,
+    "price_bins": null
   },
   {
     "placeId": "ChIJDYJorb3-3Q8RKRHlNU_Jh5o",
@@ -552,7 +584,8 @@
       ]
     },
     "latitude": 5.1311499,
-    "longitude": -1.2794321
+    "longitude": -1.2794321,
+    "price_bins": null
   },
   {
     "placeId": "ChIJg57kWcP-3Q8RvtcZFs_Po3g",
@@ -574,7 +607,8 @@
       ]
     },
     "latitude": 5.1116715,
-    "longitude": -1.2705364
+    "longitude": -1.2705364,
+    "price_bins": null
   },
   {
     "placeId": "ChIJSWOmd5P-3Q8R_VInMFWKRBo",
@@ -588,7 +622,8 @@
       ]
     },
     "latitude": 5.12358,
-    "longitude": -1.264329
+    "longitude": -1.264329,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJVVVVVaX-3Q8R_MDEvdxXduc",
@@ -598,7 +633,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1308723,
-    "longitude": -1.2730002
+    "longitude": -1.2730002,
+    "price_bins": null
   },
   {
     "placeId": "ChIJUV5eBxj-3Q8RoYu1-cJRzJI",
@@ -608,7 +644,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.121218,
-    "longitude": -1.221379
+    "longitude": -1.221379,
+    "price_bins": null
   },
   {
     "placeId": "ChIJLW2QwUX-3Q8RR8sCA0lN_ak",
@@ -622,7 +659,8 @@
       ]
     },
     "latitude": 5.1119823,
-    "longitude": -1.2376198
+    "longitude": -1.2376198,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJ2fBX66jx2w8RQzJ_b8XbLHg",
@@ -644,7 +682,8 @@
       ]
     },
     "latitude": 6.539934,
-    "longitude": -1.4097342
+    "longitude": -1.4097342,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJrRD36dYw3g8RyA8iyAKAeCU",
@@ -670,7 +709,8 @@
       ]
     },
     "latitude": 5.3029375,
-    "longitude": -0.7188125
+    "longitude": -0.7188125,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJq3dCnT343Q8RlfueQFj26xs",
@@ -691,7 +731,8 @@
       ]
     },
     "latitude": 5.0682687,
-    "longitude": -1.4219352
+    "longitude": -1.4219352,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJZ-8CtNd55w8RQVlfBJMDqAo",
@@ -712,7 +753,8 @@
       ]
     },
     "latitude": 4.9897149,
-    "longitude": -1.6352498
+    "longitude": -1.6352498,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJZwSmUgZ75w8RxwbHs-Awgz8",
@@ -727,7 +769,8 @@
       ]
     },
     "latitude": 4.9937236,
-    "longitude": -1.6361104
+    "longitude": -1.6361104,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJDbOD3OsdIRARTv7v7vASICo",
@@ -753,7 +796,8 @@
       ]
     },
     "latitude": 5.9659814,
-    "longitude": 0.6172802
+    "longitude": 0.6172802,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJPV3nNOz33Q8RT5RUC0bWrhw",
@@ -778,7 +822,8 @@
       ]
     },
     "latitude": 5.075138,
-    "longitude": -1.378355
+    "longitude": -1.378355,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJIQfDNVb33Q8RKjk2lJcfZpg",
@@ -802,7 +847,8 @@
       ]
     },
     "latitude": 5.0623144,
-    "longitude": -1.4399493
+    "longitude": -1.4399493,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJw5YUg5i33w8RyVrV1SjIc4w",
@@ -826,7 +872,8 @@
       ]
     },
     "latitude": 5.4273184,
-    "longitude": -0.4691204
+    "longitude": -0.4691204,
+    "price_bins": "300+"
   },
   {
     "placeId": "ChIJ012sRE743Q8R7ORbiDThgbc",
@@ -854,7 +901,8 @@
       ]
     },
     "latitude": 5.0934589,
-    "longitude": -1.3371245
+    "longitude": -1.3371245,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJufkrZW3u5w8RHZjDUDzifpE",
@@ -873,7 +921,8 @@
       ]
     },
     "latitude": 4.8519982,
-    "longitude": -2.2349684
+    "longitude": -2.2349684,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJYRQwy0Hs5w8RfsNdq-hJg4c",
@@ -903,7 +952,8 @@
       ]
     },
     "latitude": 4.8288106,
-    "longitude": -2.2017396
+    "longitude": -2.2017396,
+    "price_bins": "300+"
   },
   {
     "placeId": "ChIJbUlZ8i7w5w8RlE2GNkFEb0o",
@@ -928,7 +978,8 @@
       ]
     },
     "latitude": 4.8917565,
-    "longitude": -2.2656276
+    "longitude": -2.2656276,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJfdN3Vc4d6A8R-gvM9HG1o1o",
@@ -956,7 +1007,8 @@
       ]
     },
     "latitude": 4.9723558,
-    "longitude": -2.5167274
+    "longitude": -2.5167274,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJO-B1VLv33Q8R9DhHY_ffxCw",
@@ -985,14 +1037,15 @@
       ]
     },
     "latitude": 5.0765268,
-    "longitude": -1.3750188
+    "longitude": -1.3750188,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJgVOZbZT-3Q8Rior1CHRXQSY",
     "reviewsCount": 656,
     "totalScore": 3.7,
     "hotelStars": "2-star hotel",
-    "price": 53.33,
+    "price": 53.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -1009,7 +1062,8 @@
       ]
     },
     "latitude": 5.1248409,
-    "longitude": -1.2656915
+    "longitude": -1.2656915,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJdQb4WlL-3Q8Rdq2YqRJLRCs",
@@ -1024,7 +1078,8 @@
       ]
     },
     "latitude": 5.1034717,
-    "longitude": -1.2427968
+    "longitude": -1.2427968,
+    "price_bins": null
   },
   {
     "placeId": "ChIJS08WoFr-3Q8RRFE68Gv9OD0",
@@ -1044,7 +1099,8 @@
       ]
     },
     "latitude": 5.1108208,
-    "longitude": -1.2421333
+    "longitude": -1.2421333,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJg2DcdkT-3Q8Ro0Nz0SFm0y8",
@@ -1059,7 +1115,8 @@
       ]
     },
     "latitude": 5.1142674,
-    "longitude": -1.2380906
+    "longitude": -1.2380906,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ4RgTV5T-3Q8RzyUvr1LTAMU",
@@ -1069,7 +1126,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1239306,
-    "longitude": -1.2671741
+    "longitude": -1.2671741,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ-WdgbxP_3Q8R00ss54EeV-w",
@@ -1084,7 +1142,8 @@
       ]
     },
     "latitude": 5.1314282,
-    "longitude": -1.2692066
+    "longitude": -1.2692066,
+    "price_bins": null
   },
   {
     "placeId": "ChIJxzqjKHn_3Q8Rb6yNOCjZSSo",
@@ -1094,7 +1153,8 @@
     "price": 98.0,
     "experience": {},
     "latitude": 5.1204375,
-    "longitude": -1.2371875
+    "longitude": -1.2371875,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJlenD1un-3Q8R9UfcBZIbGxM",
@@ -1115,7 +1175,8 @@
       ]
     },
     "latitude": 5.1138647,
-    "longitude": -1.2633151
+    "longitude": -1.2633151,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJo5XjhJT-3Q8RhMeY7luBcJs",
@@ -1125,7 +1186,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.1231722,
-    "longitude": -1.2654969
+    "longitude": -1.2654969,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ0UZ0L5b-3Q8R5bTSGuqWRho",
@@ -1148,7 +1210,8 @@
       ]
     },
     "latitude": 5.1283661,
-    "longitude": -1.2694597
+    "longitude": -1.2694597,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJnwiAVFb-3Q8R6c9anhuHBd0",
@@ -1170,7 +1233,8 @@
       ]
     },
     "latitude": 5.1077276,
-    "longitude": -1.2489019
+    "longitude": -1.2489019,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJ-cG9nIr-3Q8RgQqZfdsLsps",
@@ -1192,7 +1256,8 @@
       ]
     },
     "latitude": 5.1233372,
-    "longitude": -1.25056
+    "longitude": -1.25056,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJVVVVlez-3Q8RdAdkIwzKK5w",
@@ -1213,7 +1278,8 @@
       ]
     },
     "latitude": 5.1206306,
-    "longitude": -1.2684226
+    "longitude": -1.2684226,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJcxftk4r-3Q8RIcPBCrgBw9o",
@@ -1239,7 +1305,8 @@
       ]
     },
     "latitude": 5.1228415,
-    "longitude": -1.2515696
+    "longitude": -1.2515696,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJMxjUI9v-3Q8R5vB0fdwQQ_U",
@@ -1259,7 +1326,8 @@
       ]
     },
     "latitude": 5.1095411,
-    "longitude": -1.2767557
+    "longitude": -1.2767557,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJhUBJrFP-3Q8R7Lke7wn56E4",
@@ -1289,7 +1357,8 @@
       ]
     },
     "latitude": 5.1032038,
-    "longitude": -1.244032
+    "longitude": -1.244032,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJ2W665O6oJxARhwE6nrQErFY",
@@ -1310,7 +1379,8 @@
       ]
     },
     "latitude": 7.162562,
-    "longitude": 0.4757596
+    "longitude": 0.4757596,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJ-WBgspUBIRAR2_17FLZyZ4k",
@@ -1332,7 +1402,8 @@
       ]
     },
     "latitude": 5.7950818,
-    "longitude": 0.6232394
+    "longitude": 0.6232394,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJr6rWjevhIBARUpEfpgysb-w",
@@ -1350,7 +1421,8 @@
       ]
     },
     "latitude": 5.9993281,
-    "longitude": 0.5858082
+    "longitude": 0.5858082,
+    "price_bins": "300+"
   },
   {
     "placeId": "ChIJd8LHuvodIRAR0UtyHfULSlE",
@@ -1366,7 +1438,8 @@
       ]
     },
     "latitude": 5.9730391,
-    "longitude": 0.6102663
+    "longitude": 0.6102663,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJ31LLPX8VIRAR-owmjs5wbXo",
@@ -1376,7 +1449,8 @@
     "price": 25.0,
     "experience": {},
     "latitude": 6.0630907,
-    "longitude": 0.8690606
+    "longitude": 0.8690606,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJq-zjkXAlJxARL8j92FOTFyU",
@@ -1386,7 +1460,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.5897085,
-    "longitude": 0.4814388
+    "longitude": 0.4814388,
+    "price_bins": null
   },
   {
     "placeId": "ChIJD8eX0uYQJxARR0p8Q8L7v-s",
@@ -1406,7 +1481,8 @@
       ]
     },
     "latitude": 6.8507,
-    "longitude": 0.4200235
+    "longitude": 0.4200235,
+    "price_bins": null
   },
   {
     "placeId": "ChIJC46GVcAtJxAR6i23SiUFWtk",
@@ -1416,7 +1492,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.559827,
-    "longitude": 0.6148976
+    "longitude": 0.6148976,
+    "price_bins": null
   },
   {
     "placeId": "ChIJG92HVT8lJxAR1MOXPQL7Ui4",
@@ -1430,7 +1507,8 @@
       ]
     },
     "latitude": 6.5994508,
-    "longitude": 0.4646057
+    "longitude": 0.4646057,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJz0jFu-YlJxARSyG1f8NxJsw",
@@ -1440,7 +1518,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.6350484,
-    "longitude": 0.480754
+    "longitude": 0.480754,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ3xWMG2JuIRARW10NKrVcpwU",
@@ -1454,7 +1533,8 @@
       ]
     },
     "latitude": 5.9392158,
-    "longitude": 0.9960983
+    "longitude": 0.9960983,
+    "price_bins": null
   },
   {
     "placeId": "ChIJIaRquzolJxAR6qiFfyLlhrE",
@@ -1468,7 +1548,8 @@
       ]
     },
     "latitude": 6.6092448,
-    "longitude": 0.4603368
+    "longitude": 0.4603368,
+    "price_bins": null
   },
   {
     "placeId": "ChIJIyJZ7KAlJxARd9WTYIq70Lo",
@@ -1478,7 +1559,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.60302,
-    "longitude": 0.48933
+    "longitude": 0.48933,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ_____-PhIBARmphv4alYsNY",
@@ -1488,7 +1570,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.9994168,
-    "longitude": 0.59662
+    "longitude": 0.59662,
+    "price_bins": null
   },
   {
     "placeId": "ChIJS0kc0LEBIRARVZUArW-bC_Y",
@@ -1502,7 +1585,8 @@
       ]
     },
     "latitude": 5.7811321,
-    "longitude": 0.642329
+    "longitude": 0.642329,
+    "price_bins": null
   },
   {
     "placeId": "ChIJnd6K2ggDIRARin3xiQe4PWE",
@@ -1521,7 +1605,8 @@
       ]
     },
     "latitude": 5.8606018,
-    "longitude": 0.6510375
+    "longitude": 0.6510375,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJkfea3p1xIRARV-H2ojI0-2c",
@@ -1539,7 +1624,8 @@
       ]
     },
     "latitude": 5.8974073,
-    "longitude": 0.9948827
+    "longitude": 0.9948827,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJPXl3w2E4IRARB-9wCGVy-1k",
@@ -1553,7 +1639,8 @@
       ]
     },
     "latitude": 6.1952084,
-    "longitude": 0.8899006
+    "longitude": 0.8899006,
+    "price_bins": null
   },
   {
     "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
@@ -1583,7 +1670,8 @@
       ]
     },
     "latitude": 6.2195254,
-    "longitude": 0.0891466
+    "longitude": 0.0891466,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJJ9Vw2VFzIRARXEZoErmQqus",
@@ -1601,7 +1689,8 @@
       ]
     },
     "latitude": 5.8451766,
-    "longitude": 0.9815336
+    "longitude": 0.9815336,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJ18ss3xklJxARDoEi1sfNBk8",
@@ -1611,7 +1700,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.610329,
-    "longitude": 0.4723415
+    "longitude": 0.4723415,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ6WJAbIUwJxARooPmkQwwsUY",
@@ -1625,7 +1715,8 @@
       ]
     },
     "latitude": 6.5691619,
-    "longitude": 0.4048661
+    "longitude": 0.4048661,
+    "price_bins": null
   },
   {
     "placeId": "ChIJq7qmRxbhIBARq8zsio8nmLk",
@@ -1643,7 +1734,8 @@
       ]
     },
     "latitude": 6.0112432,
-    "longitude": 0.5459213
+    "longitude": 0.5459213,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJEfr6OUclJxARV61rXhG8eDo",
@@ -1653,7 +1745,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.5979208,
-    "longitude": 0.4634208
+    "longitude": 0.4634208,
+    "price_bins": null
   },
   {
     "placeId": "ChIJN38EvjklJxARU91_HfNoKdw",
@@ -1676,7 +1769,8 @@
       ]
     },
     "latitude": 6.6143009,
-    "longitude": 0.4519249
+    "longitude": 0.4519249,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJi9aAPDc8IRAR-O2knuOB7-M",
@@ -1686,7 +1780,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.1184481,
-    "longitude": 0.8142073
+    "longitude": 0.8142073,
+    "price_bins": null
   },
   {
     "placeId": "ChIJxa1Ek-MkJxARMCoWOWvpXOs",
@@ -1716,7 +1811,8 @@
       ]
     },
     "latitude": 6.6250288,
-    "longitude": 0.4748708
+    "longitude": 0.4748708,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJBzHcyKdfIRAR1tjSmyNsSuw",
@@ -1738,7 +1834,8 @@
       ]
     },
     "latitude": 6.106923,
-    "longitude": 1.1843345
+    "longitude": 1.1843345,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJBykl8UMlJxARFb9zt0VUb9k",
@@ -1753,7 +1850,8 @@
       ]
     },
     "latitude": 6.592883,
-    "longitude": 0.465933
+    "longitude": 0.465933,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJj0XDgR1uIRARsfJtdaKy5L0",
@@ -1777,7 +1875,8 @@
       ]
     },
     "latitude": 5.8984292,
-    "longitude": 0.9940566
+    "longitude": 0.9940566,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJ2WK8YoAIIRARbssOcsfH8Yo",
@@ -1799,7 +1898,8 @@
       ]
     },
     "latitude": 5.7723558,
-    "longitude": 0.7556075
+    "longitude": 0.7556075,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJB7M-5gXhIBAROZGlvM3_4DY",
@@ -1826,7 +1926,8 @@
       ]
     },
     "latitude": 5.9941531,
-    "longitude": 0.5917681
+    "longitude": 0.5917681,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJLXzH5B8JIRARR7ZmTwkjDKI",
@@ -1853,7 +1954,8 @@
       ]
     },
     "latitude": 5.8028125,
-    "longitude": 0.7295625
+    "longitude": 0.7295625,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJJRyWHSwlJxARei5Z4WO9WOs",
@@ -1881,7 +1983,8 @@
       ]
     },
     "latitude": 6.614448,
-    "longitude": 0.4544482
+    "longitude": 0.4544482,
+    "price_bins": "300+"
   },
   {
     "placeId": "ChIJta2Ed6pv3Q8R_4ahmvAfYEY",
@@ -1891,7 +1994,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.2344727,
-    "longitude": -2.0104275
+    "longitude": -2.0104275,
+    "price_bins": null
   },
   {
     "placeId": "ChIJM6HpFVJ35w8RWtD6JoMMBO8",
@@ -1917,7 +2021,8 @@
       ]
     },
     "latitude": 4.8825469,
-    "longitude": -1.7579037
+    "longitude": -1.7579037,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJjwNyz-yZ3w8RRXl5cR6iNDI",
@@ -1927,7 +2032,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5869571,
-    "longitude": -0.2934239
+    "longitude": -0.2934239,
+    "price_bins": null
   },
   {
     "placeId": "ChIJNa5mxEeF3w8RxQBQBQJuoFg",
@@ -1949,7 +2055,8 @@
       ]
     },
     "latitude": 5.5822756,
-    "longitude": -0.1395769
+    "longitude": -0.1395769,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJ20nE-VCX3w8RzFan-0SfVlw",
@@ -1959,7 +2066,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5539101,
-    "longitude": -0.2320332
+    "longitude": -0.2320332,
+    "price_bins": null
   },
   {
     "placeId": "ChIJeeKbuIOa3w8RroA-FfiZmyI",
@@ -1984,7 +2092,8 @@
       ]
     },
     "latitude": 5.5651636,
-    "longitude": -0.1810172
+    "longitude": -0.1810172,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJD-dZXHqQ3w8RSAsMfnNaNZo",
@@ -1999,7 +2108,8 @@
       ]
     },
     "latitude": 5.5542991,
-    "longitude": -0.1789925
+    "longitude": -0.1789925,
+    "price_bins": null
   },
   {
     "placeId": "ChIJo1QvXMOF3w8RwjxIkF_09YI",
@@ -2020,7 +2130,8 @@
       ]
     },
     "latitude": 5.5877274,
-    "longitude": -0.0843615
+    "longitude": -0.0843615,
+    "price_bins": null
   },
   {
     "placeId": "ChIJAU8Orj6Z3w8RbV8YmbY1pqM",
@@ -2030,7 +2141,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.6299248,
-    "longitude": -0.2471522
+    "longitude": -0.2471522,
+    "price_bins": null
   },
   {
     "placeId": "ChIJOy_YmeKa3w8RbMzLSjjA8gw",
@@ -2059,7 +2171,8 @@
       ]
     },
     "latitude": 5.6005796,
-    "longitude": -0.1763632
+    "longitude": -0.1763632,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJ5yvq2_WZ3w8R280MPIU42HY",
@@ -2078,7 +2191,8 @@
       ]
     },
     "latitude": 5.5776724,
-    "longitude": -0.2259999
+    "longitude": -0.2259999,
+    "price_bins": null
   },
   {
     "placeId": "ChIJEUtRigOc3w8RsmCM7NJbKH8",
@@ -2101,7 +2215,8 @@
       ]
     },
     "latitude": 5.6526603,
-    "longitude": -0.2193319
+    "longitude": -0.2193319,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJKZn5VrqQ3w8R_0xZ0qVfKt0",
@@ -2126,7 +2241,8 @@
       ]
     },
     "latitude": 5.5471504,
-    "longitude": -0.2125714
+    "longitude": -0.2125714,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJZ-JzRjeF3w8RAkfhnXjXdrE",
@@ -2136,7 +2252,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5850404,
-    "longitude": -0.0907342
+    "longitude": -0.0907342,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ4_lbIQyQ3w8RP4SBeuz1RQ4",
@@ -2156,7 +2273,8 @@
       ]
     },
     "latitude": 5.555997,
-    "longitude": -0.1602129
+    "longitude": -0.1602129,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJqYzfNFOF3w8Rb2DX3mKMmMY",
@@ -2166,7 +2284,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5654958,
-    "longitude": -0.1319466
+    "longitude": -0.1319466,
+    "price_bins": null
   },
   {
     "placeId": "ChIJZyVHeT2c3w8RP4yL_06DW24",
@@ -2187,7 +2306,8 @@
       ]
     },
     "latitude": 5.667281,
-    "longitude": -0.212693
+    "longitude": -0.212693,
+    "price_bins": null
   },
   {
     "placeId": "ChIJvxpt5NWb3w8Rs0KeRKIQqSw",
@@ -2208,7 +2328,8 @@
       ]
     },
     "latitude": 5.608581,
-    "longitude": -0.2236667
+    "longitude": -0.2236667,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJX8Fw8IOa3w8RlKAmOw4PXk0",
@@ -2239,7 +2360,8 @@
       ]
     },
     "latitude": 5.5665354,
-    "longitude": -0.1811801
+    "longitude": -0.1811801,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJl04zw1WD3w8RcWZew6B1iug",
@@ -2270,7 +2392,8 @@
       ]
     },
     "latitude": 5.6471896,
-    "longitude": -0.1454373
+    "longitude": -0.1454373,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJDzeQ73Ga3w8Rz7tN-zKLK1c",
@@ -2295,7 +2418,8 @@
       ]
     },
     "latitude": 5.5715588,
-    "longitude": -0.2003216
+    "longitude": -0.2003216,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJnaDQdnCa3w8RvXK__qqywCo",
@@ -2323,7 +2447,8 @@
       ]
     },
     "latitude": 5.5705023,
-    "longitude": -0.1968936
+    "longitude": -0.1968936,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJn7185eyR3w8RjUEHi3X5siI",
@@ -2337,7 +2462,8 @@
       ]
     },
     "latitude": 5.5400606,
-    "longitude": -0.2055556
+    "longitude": -0.2055556,
+    "price_bins": null
   },
   {
     "placeId": "ChIJydp2pn-D3w8RuYlo9qnD7XU",
@@ -2360,7 +2486,8 @@
       ]
     },
     "latitude": 5.6490586,
-    "longitude": -0.1157869
+    "longitude": -0.1157869,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJ0TA372Sb3w8RANBG1xTBtD8",
@@ -2382,7 +2509,8 @@
       ]
     },
     "latitude": 5.6456203,
-    "longitude": -0.1613216
+    "longitude": -0.1613216,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJN1KbHF6D3w8RIGYExaWSW-o",
@@ -2406,7 +2534,8 @@
       ]
     },
     "latitude": 5.6510458,
-    "longitude": -0.1311691
+    "longitude": -0.1311691,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJzZ9eQFaF3w8R8jAPGE7vyuM",
@@ -2436,7 +2565,8 @@
       ]
     },
     "latitude": 5.562352,
-    "longitude": -0.142679
+    "longitude": -0.142679,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJs0_tTx2b3w8Rtpb29CT3SJo",
@@ -2465,7 +2595,8 @@
       ]
     },
     "latitude": 5.6049869,
-    "longitude": -0.1766104
+    "longitude": -0.1766104,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJYTQWDvqa3w8RJZFE5rbKNfA",
@@ -2492,7 +2623,8 @@
       ]
     },
     "latitude": 5.5934084,
-    "longitude": -0.1807772
+    "longitude": -0.1807772,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJAcTuKJuQ3w8Rl38ROfnzGGo",
@@ -2523,7 +2655,8 @@
       ]
     },
     "latitude": 5.5541221,
-    "longitude": -0.1979295
+    "longitude": -0.1979295,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJm9eR2HuG3w8RZCzN1z4kubo",
@@ -2553,7 +2686,8 @@
       ]
     },
     "latitude": 5.596587,
-    "longitude": -0.069829
+    "longitude": -0.069829,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJEyxQ4C2X3w8RxDkuZ9-_-AE",
@@ -2563,7 +2697,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5288851,
-    "longitude": -0.229026
+    "longitude": -0.229026,
+    "price_bins": null
   },
   {
     "placeId": "ChIJj45YkS2X3w8Rw6b6iPrsdi8",
@@ -2589,7 +2724,8 @@
       ]
     },
     "latitude": 5.5292987,
-    "longitude": -0.2260043
+    "longitude": -0.2260043,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJr6FSdi2X3w8RnjyparkT75I",
@@ -2604,7 +2740,8 @@
       ]
     },
     "latitude": 5.5294152,
-    "longitude": -0.2264129
+    "longitude": -0.2264129,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJR_F0pCSU2w8RaD8HbEYMBZM",
@@ -2631,7 +2768,8 @@
       ]
     },
     "latitude": 5.5864424,
-    "longitude": -0.0869581
+    "longitude": -0.0869581,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJ8QycOJWQ3w8RTvbJ89Uqi1c",
@@ -2653,7 +2791,8 @@
       ]
     },
     "latitude": 5.5417771,
-    "longitude": -0.205328
+    "longitude": -0.205328,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJ_wwfqqab3w8RumdRZv1Ig6I",
@@ -2681,7 +2820,8 @@
       ]
     },
     "latitude": 5.618945,
-    "longitude": -0.191889
+    "longitude": -0.191889,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJzXBPWliF3w8R5C36QUOi5mg",
@@ -2711,7 +2851,8 @@
       ]
     },
     "latitude": 5.563936,
-    "longitude": -0.1382485
+    "longitude": -0.1382485,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJ_VghOeX73Q8R87KCtXQoaZg",
@@ -2735,7 +2876,8 @@
       ]
     },
     "latitude": 5.1508384,
-    "longitude": -1.2995721
+    "longitude": -1.2995721,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJT6ZrV1L-3Q8REqgBfrbshCM",
@@ -2757,7 +2899,8 @@
       ]
     },
     "latitude": 5.1031634,
-    "longitude": -1.2428486
+    "longitude": -1.2428486,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJf0Cwdz4lJxARji5B9RWsuvw",
@@ -2767,7 +2910,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.6046964,
-    "longitude": 0.4674557
+    "longitude": 0.4674557,
+    "price_bins": null
   },
   {
     "placeId": "ChIJJd8apnlzIRARUO2qhDzVtkA",
@@ -2777,7 +2921,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.8464257,
-    "longitude": 0.9758547
+    "longitude": 0.9758547,
+    "price_bins": null
   },
   {
     "placeId": "ChIJXUxuzLulIBARo6cuN1J1v6I",
@@ -2792,7 +2937,8 @@
       ]
     },
     "latitude": 6.2086077,
-    "longitude": 0.098877
+    "longitude": 0.098877,
+    "price_bins": null
   },
   {
     "placeId": "ChIJF-YOBZmQ3w8RPYmht7WHGOw",
@@ -2821,7 +2967,8 @@
       ]
     },
     "latitude": 5.5544095,
-    "longitude": -0.2026337
+    "longitude": -0.2026337,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJvR3_bMSQ3w8Rkaqueh1zoYM",
@@ -2831,7 +2978,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.5396208,
-    "longitude": -0.2064516
+    "longitude": -0.2064516,
+    "price_bins": null
   },
   {
     "placeId": "ChIJeTnHxwVx3w8RPL5k90qYuyI",
@@ -2856,7 +3004,8 @@
       ]
     },
     "latitude": 5.8276147,
-    "longitude": -0.1844512
+    "longitude": -0.1844512,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJ7XeQ0OGpIBAR7kupYMNEPSA",
@@ -2887,7 +3036,8 @@
       ]
     },
     "latitude": 6.2980265,
-    "longitude": 0.03101
+    "longitude": 0.03101,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJ6xZ_ouuz3g8REI-EZRT0DEQ",
@@ -2903,7 +3053,8 @@
       ]
     },
     "latitude": 6.3397819,
-    "longitude": -0.9975905
+    "longitude": -0.9975905,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJV5EB4l2vIBARXH97YYr0Ygo",
@@ -2926,7 +3077,8 @@
       ]
     },
     "latitude": 6.2439045,
-    "longitude": 0.0921707
+    "longitude": 0.0921707,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJpydwbHdj3w8RM4Y8w52voM0",
@@ -2951,7 +3103,8 @@
       ]
     },
     "latitude": 5.9373755,
-    "longitude": -0.0643552
+    "longitude": -0.0643552,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJUWCjFhpk3w8RoCObaELAu-4",
@@ -2961,7 +3114,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.9737468,
-    "longitude": -0.0878036
+    "longitude": -0.0878036,
+    "price_bins": null
   },
   {
     "placeId": "ChIJw2wyhRYN3w8RkFEe0T1-EJI",
@@ -2971,7 +3125,8 @@
     "price": null,
     "experience": {},
     "latitude": 5.8252609,
-    "longitude": -0.3353003
+    "longitude": -0.3353003,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ3XAgys0m3w8ReBqaVpqX18U",
@@ -2981,7 +3136,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.1564897,
-    "longitude": -0.5520753
+    "longitude": -0.5520753,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ17Mv6WJq3w8RB4TkH7oNLuY",
@@ -3011,7 +3167,8 @@
       ]
     },
     "latitude": 6.0536823,
-    "longitude": -0.2617503
+    "longitude": -0.2617503,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJq6qqqvZw3w8RcIPB5KSYpUM",
@@ -3042,7 +3199,8 @@
       ]
     },
     "latitude": 5.8084059,
-    "longitude": -0.1859351
+    "longitude": -0.1859351,
+    "price_bins": "201-300"
   },
   {
     "placeId": "ChIJyYCIRksh2Q8RUXhawOsF5Ao",
@@ -3052,7 +3210,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.628563,
-    "longitude": -0.7365849
+    "longitude": -0.7365849,
+    "price_bins": null
   },
   {
     "placeId": "ChIJHbwLmcM62Q8RKaIrRDsraf8",
@@ -3066,14 +3225,15 @@
       ]
     },
     "latitude": 6.6066325,
-    "longitude": -0.7685025
+    "longitude": -0.7685025,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ4Z5VoyKpIBAR-2hbsfKEISc",
     "reviewsCount": 114,
     "totalScore": 4.1,
     "hotelStars": null,
-    "price": 48.53,
+    "price": 49.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3087,7 +3247,8 @@
       ]
     },
     "latitude": 6.2538178,
-    "longitude": 0.043826
+    "longitude": 0.043826,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJayMSAqpl3w8RqJAuwCzoXvQ",
@@ -3101,7 +3262,8 @@
       ]
     },
     "latitude": 5.9413474,
-    "longitude": -0.116666
+    "longitude": -0.116666,
+    "price_bins": null
   },
   {
     "placeId": "ChIJRV7YuYEL3w8RM4u9t2A9AWU",
@@ -3115,7 +3277,8 @@
       ]
     },
     "latitude": 5.8108906,
-    "longitude": -0.3385424
+    "longitude": -0.3385424,
+    "price_bins": null
   },
   {
     "placeId": "ChIJx32C_4JB3w8RRey76JVNx7Q",
@@ -3132,7 +3295,8 @@
       ]
     },
     "latitude": 6.1011875,
-    "longitude": -0.2833125
+    "longitude": -0.2833125,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJK1io2mKjIBARVgMpKdmhkRI",
@@ -3155,7 +3319,8 @@
       ]
     },
     "latitude": 6.1506626,
-    "longitude": 0.1220168
+    "longitude": 0.1220168,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJu4jUuiJx3w8RLKlqNb_f0RA",
@@ -3172,14 +3337,15 @@
       ]
     },
     "latitude": 5.8348125,
-    "longitude": -0.2586875
+    "longitude": -0.2586875,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJKWfrTPCoIBAR3oG7N_OqKMI",
     "reviewsCount": 1367,
     "totalScore": 4.2,
     "hotelStars": "3-star hotel",
-    "price": 148.98,
+    "price": 149.0,
     "experience": {
       "amenities": [
         "Free Wi-Fi",
@@ -3203,7 +3369,8 @@
       ]
     },
     "latitude": 6.2893769,
-    "longitude": 0.0552344
+    "longitude": 0.0552344,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJMcpZVfpRJxARLztUtVB2aHI",
@@ -3220,7 +3387,8 @@
       ]
     },
     "latitude": 6.5009189,
-    "longitude": 0.142474
+    "longitude": 0.142474,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJm4ARv3Bn3w8RRImqoZEMm-k",
@@ -3242,7 +3410,8 @@
       ]
     },
     "latitude": 6.0164365,
-    "longitude": -0.0830618
+    "longitude": -0.0830618,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJnyJ23VAl2Q8RD6YmR29M6tY",
@@ -3264,7 +3433,8 @@
       ]
     },
     "latitude": 6.6161858,
-    "longitude": -0.7409569
+    "longitude": -0.7409569,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJh0R9El6vIBARhHnxZbRvyts",
@@ -3290,7 +3460,8 @@
       ]
     },
     "latitude": 6.2421015,
-    "longitude": 0.0929902
+    "longitude": 0.0929902,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJH9B5AL-lIBARCAJdXs_Lbms",
@@ -3311,7 +3482,8 @@
       ]
     },
     "latitude": 6.198333,
-    "longitude": 0.067468
+    "longitude": 0.067468,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ-1_qrF2vIBARrRVMsFr7icQ",
@@ -3335,7 +3507,8 @@
       ]
     },
     "latitude": 6.2451779,
-    "longitude": 0.0916613
+    "longitude": 0.0916613,
+    "price_bins": "31-50"
   },
   {
     "placeId": "ChIJzV6VKCCpIBARrWXPh1KRqQs",
@@ -3359,7 +3532,8 @@
       ]
     },
     "latitude": 6.2668178,
-    "longitude": 0.0749848
+    "longitude": 0.0749848,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJq0Wmb5Rh3w8R0zG7ggXbixo",
@@ -3380,7 +3554,8 @@
       ]
     },
     "latitude": 5.9998373,
-    "longitude": -0.0217251
+    "longitude": -0.0217251,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJld5iKg2hIBARVTEUTKe6sL8",
@@ -3405,7 +3580,8 @@
       ]
     },
     "latitude": 6.1338525,
-    "longitude": 0.0502489
+    "longitude": 0.0502489,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJHyW24zwj2Q8RPfFxJRMXPrc",
@@ -3420,7 +3596,8 @@
       ]
     },
     "latitude": 6.6926716,
-    "longitude": -0.7366489
+    "longitude": -0.7366489,
+    "price_bins": null
   },
   {
     "placeId": "ChIJh0DtbpupIBARCpA13VQUjgU",
@@ -3441,7 +3618,8 @@
       ]
     },
     "latitude": 6.3095964,
-    "longitude": 0.0331131
+    "longitude": 0.0331131,
+    "price_bins": null
   },
   {
     "placeId": "ChIJw_AZXiB33w8RpoJ-lkT7eLs",
@@ -3463,7 +3641,8 @@
       ]
     },
     "latitude": 5.7955373,
-    "longitude": -0.1857995
+    "longitude": -0.1857995,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ3-nP7nYu3w8RkiPMIO8HqRs",
@@ -3473,7 +3652,8 @@
     "price": null,
     "experience": {},
     "latitude": 6.3187376,
-    "longitude": -0.4754241
+    "longitude": -0.4754241,
+    "price_bins": null
   },
   {
     "placeId": "ChIJ0zUYpupn3w8R0KOcdzVEsn8",
@@ -3504,7 +3684,8 @@
       ]
     },
     "latitude": 5.9951446,
-    "longitude": -0.1025718
+    "longitude": -0.1025718,
+    "price_bins": "300+"
   },
   {
     "placeId": "ChIJjcsDnwU63w8RfLL8ay0BdLE",
@@ -3519,7 +3700,8 @@
       ]
     },
     "latitude": 6.2296973,
-    "longitude": -0.3832914
+    "longitude": -0.3832914,
+    "price_bins": "0-30"
   },
   {
     "placeId": "ChIJ_____-uz3g8R1G1_rRV22Qs",
@@ -3533,7 +3715,8 @@
       ]
     },
     "latitude": 6.3462406,
-    "longitude": -1.0017878
+    "longitude": -1.0017878,
+    "price_bins": "51-70"
   },
   {
     "placeId": "ChIJD2Plzc923w8RdAQWXdXjYzk",
@@ -3560,7 +3743,8 @@
       ]
     },
     "latitude": 5.8058686,
-    "longitude": -0.1969076
+    "longitude": -0.1969076,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJFTAN5ImvIBARJ1BJu04amhA",
@@ -3578,7 +3762,8 @@
       ]
     },
     "latitude": 6.2384595,
-    "longitude": 0.0912979
+    "longitude": 0.0912979,
+    "price_bins": "101-200"
   },
   {
     "placeId": "ChIJpZxowXpx3w8RsyC642zhEjk",
@@ -3598,7 +3783,8 @@
       ]
     },
     "latitude": 5.844214,
-    "longitude": -0.1650455
+    "longitude": -0.1650455,
+    "price_bins": "71-100"
   },
   {
     "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
@@ -3628,6 +3814,7 @@
       ]
     },
     "latitude": 6.2195254,
-    "longitude": 0.0891466
+    "longitude": 0.0891466,
+    "price_bins": "201-300"
   }
 ]
