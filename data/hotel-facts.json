@@ -19,7 +19,8 @@
       ]
     },
     "website": "http://www.fantasfolly.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Ankobra Bridge Hotel and Resort",
@@ -41,7 +42,8 @@
       ]
     },
     "website": "https://www.ankobrabeach.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "RHOGEM Hotel",
@@ -63,7 +65,8 @@
       ]
     },
     "website": "http://www.rhogemhotels.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Alliance Hotel by Eagles (formerly Protea Hotel Takoradi Select by Marriott)",
@@ -85,7 +88,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Best Western Plus Atlantic Hotel",
@@ -105,7 +109,8 @@
       ]
     },
     "website": "https://www.bestwestern.com/en_US/book/takoradi/hotel-rooms/best-western-plus-atlantic-hotel/propertyCode.75301.html",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Red Mango Hotel and Apartments",
@@ -127,7 +132,8 @@
       ]
     },
     "website": "http://www.redmangohotelapartments.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Sedelam Lodge",
@@ -149,7 +155,8 @@
       ]
     },
     "website": "https://sedelam-lodge.business.site/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "IS Guest House",
@@ -171,7 +178,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Hotel Francilia",
@@ -193,7 +201,8 @@
       ]
     },
     "website": "http://www.hotelfrancilia.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Saralotte Guest House",
@@ -215,7 +224,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Ahanta Eco Lodge",
@@ -237,12 +247,13 @@
       ]
     },
     "website": "http://www.ahantawaves.com/",
-    "categoryName": "Guest house"
+    "categoryName": "Guest house",
+    "region": "Western Region"
   },
   {
     "title": "Ibisa Hotel Takoradi",
     "placeId": "ChIJPR2vrct55w8Rz-6UQQC5VX8",
-    "city": "Race Course",
+    "city": "Takoradi",
     "phone": "+233 24 677 4655",
     "imageUrls": {
       "images": [
@@ -259,7 +270,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Busua Paradiso Beach Resort",
@@ -281,7 +293,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Essbenah Hotel",
@@ -303,7 +316,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Yabah Hotel",
@@ -325,7 +339,8 @@
       ]
     },
     "website": "https://yabah-hotel.business.site/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Tenack Beach Resort and Hotel",
@@ -347,7 +362,8 @@
       ]
     },
     "website": "http://www.tenackbeachresort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Raybow International Hotel",
@@ -369,7 +385,8 @@
       ]
     },
     "website": "https://raybow-international-hotel.business.site/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Milgwen Hotel",
@@ -391,12 +408,13 @@
       ]
     },
     "website": "https://milgwen-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Laughing Goat Ghana",
     "placeId": "ChIJHc_kv9ib5w8R3_8PLD3Iw2I",
-    "city": "Busua Beach",
+    "city": "Busua",
     "phone": "+233 54 175 5533",
     "imageUrls": {
       "images": [
@@ -413,7 +431,8 @@
       ]
     },
     "website": "https://laughinggoatghana.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Ezile Bay Ecolodge Akwidaa, Ghana",
@@ -435,7 +454,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Balona Hotel",
@@ -457,7 +477,8 @@
       ]
     },
     "website": "http://www.balonahotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Veivaag Lodge",
@@ -479,7 +500,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Kwodebann Hotel",
@@ -501,7 +523,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Busua Paradiso Beach Resort",
@@ -523,7 +546,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": null
   },
   {
     "title": "Jangels Hotel Annex",
@@ -536,7 +560,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Ewurafio Guest House Adisadel Estate",
@@ -558,7 +583,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Eden Lodge",
@@ -580,7 +606,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Guest house"
+    "categoryName": "Guest house",
+    "region": "Central Region"
   },
   {
     "title": "Samrit Hotel - Cape Coast.",
@@ -599,7 +626,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Bed & breakfast"
+    "categoryName": "Bed & breakfast",
+    "region": "Central Region"
   },
   {
     "title": "Shaky's Hotel",
@@ -618,7 +646,8 @@
       ]
     },
     "website": "https://travel.jumia.com/en-gb/ghana/o27112/shakys-travel-lodge-cape-coast",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Kokodo Guest House",
@@ -640,7 +669,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "GRNMA HOTEL, CAPE COAST",
@@ -662,7 +692,8 @@
       ]
     },
     "website": "https://grnmahotelcc.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "C-Lotte's Hotel",
@@ -684,7 +715,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Samrit Hotel",
@@ -706,7 +738,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Fairhill Guesthouse - Main",
@@ -728,7 +761,8 @@
       ]
     },
     "website": "http://www.fairhillguesthouses.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Matlat Hotel",
@@ -750,7 +784,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "KOFGAN Hotel",
@@ -771,12 +806,13 @@
       ]
     },
     "website": "https://kofgan-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Manest Royal Hotel",
     "placeId": "ChIJUV5eBxj-3Q8RoYu1-cJRzJI",
-    "city": "Cape Coast Metro",
+    "city": "Cape Coast",
     "phone": "+233 24 454 7848",
     "imageUrls": {
       "images": [
@@ -793,7 +829,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Savoy Hotel",
@@ -815,7 +852,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Wildwin Resort",
@@ -837,7 +875,8 @@
       ]
     },
     "website": "http://www.wildwinresort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": null
   },
   {
     "title": "Blue Diamond Beach and Spa Resort",
@@ -859,7 +898,8 @@
       ]
     },
     "website": "https://www.bluediamondbeachresort.org/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Brenu Beach Lodge",
@@ -881,7 +921,8 @@
       ]
     },
     "website": "http://www.brenubeach.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Abuesi Beach Resort",
@@ -903,7 +944,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Western Region"
   },
   {
     "title": "Shama Beach Resort",
@@ -914,7 +956,8 @@
       "images": []
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Western Region"
   },
   {
     "title": "Sogakope Beach Resort & Spa",
@@ -936,7 +979,8 @@
       ]
     },
     "website": "http://www.sogakopebeach.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Elmina Bay Resort",
@@ -958,12 +1002,13 @@
       ]
     },
     "website": "http://www.elminabayresort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Charlestina Beach Resort",
     "placeId": "ChIJIQfDNVb33Q8RKjk2lJcfZpg",
-    "city": "highway",
+    "city": "Brenu",
     "phone": "+233 54 207 2014",
     "imageUrls": {
       "images": [
@@ -980,7 +1025,8 @@
       ]
     },
     "website": "https://www.charlestinabeachresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "White Sands Beach Resort and Spa Ghana",
@@ -1002,7 +1048,8 @@
       ]
     },
     "website": "http://www.whitesandsholidays.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Elmina Beach Resort",
@@ -1024,7 +1071,8 @@
       ]
     },
     "website": "http://www.elminabeachresort.net/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Axim Beach Resort And Spa",
@@ -1046,7 +1094,8 @@
       ]
     },
     "website": "http://www.aximbeach.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Lou Moon Resort - Eco Luxury",
@@ -1068,7 +1117,8 @@
       ]
     },
     "website": "https://loumoonresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Western Region"
   },
   {
     "title": "Ankobra Beach Resort",
@@ -1090,7 +1140,8 @@
       ]
     },
     "website": "http://www.ankobrabeach.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "Maaha Beach Resort",
@@ -1112,7 +1163,8 @@
       ]
     },
     "website": "https://maaha-beach-resort-hotel.business.site/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Lemon Beach Resort",
@@ -1134,7 +1186,8 @@
       ]
     },
     "website": "http://www.lemonbeachresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Capital Hill Hotel",
@@ -1156,7 +1209,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Natural Bamboo village Guesthouse & Restaurant",
@@ -1178,7 +1232,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "RANS HILL LODGE, CAPE COAST",
@@ -1200,7 +1255,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Nana Bema Hotel",
@@ -1222,7 +1278,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Cape Coast Hotel",
@@ -1244,7 +1301,8 @@
       ]
     },
     "website": "https://cape-coast-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Balance Sheet Hotel",
@@ -1266,7 +1324,8 @@
       ]
     },
     "website": "https://balancesheet-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Brynx Haven",
@@ -1288,7 +1347,8 @@
       ]
     },
     "website": "https://sites.google.com/view/brynx-haven/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Marrets International Hotel",
@@ -1310,7 +1370,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Hacienda Hotel",
@@ -1332,7 +1393,8 @@
       ]
     },
     "website": "https://haciendahotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Arafynn Hotel",
@@ -1354,7 +1416,8 @@
       ]
     },
     "website": "https://www.thearafynnhotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Mighty Victory Hotel",
@@ -1376,7 +1439,8 @@
       ]
     },
     "website": "http://mightyvictoryhotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Pempamsie Hotel",
@@ -1398,7 +1462,8 @@
       ]
     },
     "website": "https://pempamsie-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Fespa",
@@ -1420,7 +1485,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Ridge Royal Hotel, Cape Coast Ghana",
@@ -1442,7 +1508,8 @@
       ]
     },
     "website": "http://ridgeroyalhotel.com.gh/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Summer Palace Hotel",
@@ -1464,7 +1531,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Oasis Beach Resort",
@@ -1486,7 +1554,8 @@
       ]
     },
     "website": "http://www.oasisbeach-ghana.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Central Region"
   },
   {
     "title": "Muntala's Guest House",
@@ -1508,12 +1577,13 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Peace Holiday Resort",
     "placeId": "ChIJ-WBgspUBIRAR2_17FLZyZ4k",
-    "city": "Big Ada",
+    "city": "Ada",
     "phone": "+233 24 126 7450",
     "imageUrls": {
       "images": [
@@ -1530,7 +1600,8 @@
       ]
     },
     "website": "http://peaceholidayresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Holy Trinity Resort Annex",
@@ -1552,7 +1623,8 @@
       ]
     },
     "website": "http://holytrinity.com.gh/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Waterfront Paradise Resort",
@@ -1574,7 +1646,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Sitsope Lodge",
@@ -1596,7 +1669,8 @@
       ]
     },
     "website": "https://m.facebook.com/pages/category/Lodge/Sitsope-Lodge-104916421249222/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Triangle Hotel",
@@ -1618,7 +1692,8 @@
       ]
     },
     "website": "https://trianglehotel.net/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Mountain Paradise Lodge",
@@ -1640,7 +1715,8 @@
       ]
     },
     "website": "https://mountainparadise-lodge.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Praise City (Point & Kill)",
@@ -1662,7 +1738,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": null
   },
   {
     "title": "Rocklyne Hotel",
@@ -1684,7 +1761,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Restel Hotel",
@@ -1706,7 +1784,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Keta Lagoon Resort",
@@ -1727,7 +1806,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Woezor Hotel",
@@ -1749,7 +1829,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Top club hotel",
@@ -1762,7 +1843,8 @@
       ]
     },
     "website": "https://top-club-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Sogakope Beach Resort and Spa",
@@ -1782,7 +1864,8 @@
       ]
     },
     "website": "http://www.sogakopebeach.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Tsarley Korpey Beach Resort",
@@ -1804,7 +1887,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Villanavi Resort",
@@ -1826,7 +1910,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Restaurant"
+    "categoryName": "Restaurant",
+    "region": "Volta Region"
   },
   {
     "title": "Agblor Lodge Beach Resort",
@@ -1848,7 +1933,8 @@
       ]
     },
     "website": "https://www.agblorlodge.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Wilkado Royal Resort & Spa",
@@ -1870,7 +1956,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": null
   },
   {
     "title": "The Royal Senchi Resort/Hotel",
@@ -1892,7 +1979,8 @@
       ]
     },
     "website": "http://www.theroyalsenchi.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "ELI BEACH RESORT",
@@ -1914,7 +2002,8 @@
       ]
     },
     "website": "http://www.elibeachresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Tarso Hotel",
@@ -1936,7 +2025,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Time Bell Hotel",
@@ -1958,7 +2048,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Resort Cocojumbo",
@@ -1980,7 +2071,8 @@
       ]
     },
     "website": "https://resort-cocojumbo.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Hotel Stevens, Ho Volta Region",
@@ -2002,7 +2094,8 @@
       ]
     },
     "website": "http://www.hotelstevens.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Skyplus Hotel and Resort",
@@ -2024,7 +2117,8 @@
       ]
     },
     "website": "https://skyplushotel.com.gh/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Volta Paradise Hotel",
@@ -2046,7 +2140,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Freedom Hotel",
@@ -2068,7 +2163,8 @@
       ]
     },
     "website": "https://freedomhotel.com.gh/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Atlantic Breeze Beach Hotel Aflao",
@@ -2090,7 +2186,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": null
   },
   {
     "title": "Volta Vicharles Hotel",
@@ -2112,7 +2209,8 @@
       ]
     },
     "website": "http://voltavicharleshotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Aborigines Beach Resort",
@@ -2134,12 +2232,13 @@
       ]
     },
     "website": "http://www.aboriginesbeachresort.net/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Meet Me There African Home Lodge (not-for-profit)",
     "placeId": "ChIJ2WK8YoAIIRARbssOcsfH8Yo",
-    "city": "Dzita, Volta Region, Keta POBOX KW4",
+    "city": "Dzita",
     "phone": "+233 24 145 1429",
     "imageUrls": {
       "images": [
@@ -2156,7 +2255,8 @@
       ]
     },
     "website": "http://www.ghanameetmethere.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Villa Awoyo Resort",
@@ -2178,7 +2278,8 @@
       ]
     },
     "website": "https://villa-awoyo.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Volta Region"
   },
   {
     "title": "The Chill River Resort",
@@ -2200,7 +2301,8 @@
       ]
     },
     "website": "http://thechillgh.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": null
   },
   {
     "title": "Volta Serene Hotel",
@@ -2222,7 +2324,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Western Royale Lodge",
@@ -2244,7 +2347,8 @@
       ]
     },
     "website": "https://westernroyalelodge.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Planters Lodge and Spa",
@@ -2266,7 +2370,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Western Region"
   },
   {
     "title": "The kamb Hotel",
@@ -2288,7 +2393,8 @@
       ]
     },
     "website": "http://thekambhotel.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": null
   },
   {
     "title": "Cocktail and Dreams Hotel",
@@ -2310,7 +2416,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Hotel de Sunshine",
@@ -2329,7 +2436,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Urbano Hotel",
@@ -2351,7 +2459,8 @@
       ]
     },
     "website": "http://www.urbanohotel-ghana.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Green Oak Hotel",
@@ -2373,7 +2482,8 @@
       ]
     },
     "website": "https://green-oak-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "The Father's Hotel",
@@ -2395,7 +2505,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Milton Hotel",
@@ -2417,7 +2528,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Holiday Inn Accra Airport, an IHG Hotel",
@@ -2437,7 +2549,8 @@
       ]
     },
     "website": "https://www.ihg.com/hotels/gb/en/accra/accra/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-GH-_-ACCRA",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Legacy hotel",
@@ -2459,7 +2572,8 @@
       ]
     },
     "website": "https://www.facebook.com/legacyhotelltd/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Lou-Ralph Hotel",
@@ -2481,7 +2595,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Grand View Hotel",
@@ -2503,7 +2618,8 @@
       ]
     },
     "website": "https://grandviewhotelgh.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Blackmama beach resort",
@@ -2525,7 +2641,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Kings Royal Atlantic Hotel",
@@ -2547,7 +2664,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Alora Beach Resort",
@@ -2569,7 +2687,8 @@
       ]
     },
     "website": "https://www.instagram.com/alorabeachresort",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Suma Court Hotel, Accra Ghana",
@@ -2591,7 +2710,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Rayporsh Hotel",
@@ -2613,7 +2733,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Number One Oxford Street Hotel & Suites",
@@ -2635,7 +2756,8 @@
       ]
     },
     "website": "https://1oxfordstreetaccra.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Golden Crystal Experience Hotel",
@@ -2657,7 +2779,8 @@
       ]
     },
     "website": "https://goldencrystalhotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Highgate Hotel",
@@ -2679,7 +2802,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Alisa Hotel North Ridge",
@@ -2701,7 +2825,8 @@
       ]
     },
     "website": "http://www.alisahotels.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Osekan Beach Resort",
@@ -2723,7 +2848,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "The Aknac Hotel",
@@ -2745,7 +2871,8 @@
       ]
     },
     "website": "https://sites.google.com/view/the-aknac-hotel/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Monarch Hotel",
@@ -2767,7 +2894,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Grand Casamora Hotel",
@@ -2789,7 +2917,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "La Palm Royal Beach Hotel",
@@ -2811,7 +2940,8 @@
       ]
     },
     "website": "http://lapalmroyalbeachhotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Accra Marriott Hotel",
@@ -2833,7 +2963,8 @@
       ]
     },
     "website": "https://www.marriott.com/en-us/hotels/accmc-accra-marriott-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Lancaster Accra",
@@ -2855,7 +2986,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Kempinski Hotel Gold Coast City Accra",
@@ -2877,7 +3009,8 @@
       ]
     },
     "website": "https://www.kempinski.com/en/hotel-gold-coast-city?utm_medium=organic&utm_source=google&utm_campaign=KIACC1&utm_content=gmb&source=S308962248",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Best Western Plus Accra Beach Hotel",
@@ -2899,7 +3032,8 @@
       ]
     },
     "website": "https://www.bestwesternplusaccra.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Royal Dede Beach Resort",
@@ -2921,7 +3055,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Oceanic Resort",
@@ -2943,7 +3078,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Golden Beach Resort",
@@ -2965,7 +3101,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Ramada Resort Accra Coco Beach",
@@ -2987,7 +3124,8 @@
       ]
     },
     "website": "https://www.wyndhamhotels.com/ramada/accra-ghana/ramada-resort-accra-coco-beach/overview?CID=LC:RA::GGL:RIO:National:15941&iata=00093796",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Rising Phoenix Magic Beach Resort",
@@ -2998,7 +3136,8 @@
       "images": []
     },
     "website": "http://www.the-rising-phoenix.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Fiesta Royale Hotel",
@@ -3020,7 +3159,8 @@
       ]
     },
     "website": "http://fiestahospitality.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Labadi Beach Hotel",
@@ -3042,7 +3182,8 @@
       ]
     },
     "website": "https://labadibeachhotelgh.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Hotel loreto",
@@ -3064,7 +3205,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Orange Beach Resort",
@@ -3086,7 +3228,8 @@
       ]
     },
     "website": "https://orangebeachresort.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Alinda Hotel",
@@ -3104,7 +3247,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Guest house"
+    "categoryName": "Guest house",
+    "region": "Volta Region"
   },
   {
     "title": "Splendid Hotel Tegbi Ghana",
@@ -3126,7 +3270,8 @@
       ]
     },
     "website": "https://splendid-hotel-tegbi-ghana.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Volta Safari Guest House",
@@ -3148,7 +3293,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Movenpick Ambassador Hotel Accra",
@@ -3170,7 +3316,8 @@
       ]
     },
     "website": "https://movenpick.accor.com/en/africa/ghana/accra/moevenpick-ambassador-hotel-accra.html?merchantid=seo-maps-GH-B4P0&sourceid=aw-cen&utm_medium=seo+maps&utm_source=google+Maps&utm_campaign=seo+maps&utm_content=Accra&y_source=1_MTUzNjI5NjQtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Salenko Beach Resort",
@@ -3192,7 +3339,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Greater Accra"
   },
   {
     "title": "Hillburi",
@@ -3214,7 +3362,8 @@
       ]
     },
     "website": "http://www.hillburi.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "The FLOAT",
@@ -3236,7 +3385,8 @@
       ]
     },
     "website": "https://thefloatgh.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Beige Village Golf Resort & Spa",
@@ -3258,7 +3408,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Serviced apartment"
+    "categoryName": "Serviced apartment",
+    "region": "Eastern Region"
   },
   {
     "title": "Aylos Bay Garden Restaurant & Lodge",
@@ -3280,7 +3431,8 @@
       ]
     },
     "website": "http://www.aylosbayghana.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Blue Royal Hotel, Larteh",
@@ -3302,7 +3454,8 @@
       ]
     },
     "website": "http://blueroyalhotels.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Bella Vista Luxury Guesthouse",
@@ -3324,7 +3477,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "COUNTRY LODGE",
@@ -3346,7 +3500,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Adwoa Asantewaa Memorial Hotel",
@@ -3368,7 +3523,8 @@
       ]
     },
     "website": "https://adwoaasantewaahotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Eastern Premier Hotel Koforidua",
@@ -3390,7 +3546,8 @@
       ]
     },
     "website": "http://www.easternpremierhotel.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Peduase Valley Resort",
@@ -3412,7 +3569,8 @@
       ]
     },
     "website": "https://peduase-valley-resort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Rock City, The Ultimate Destination",
@@ -3434,7 +3592,8 @@
       ]
     },
     "website": "https://rockcityhotelgh.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "JAYS Lodge",
@@ -3456,7 +3615,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "3As Guest House",
@@ -3478,7 +3638,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Cozy Ridge",
@@ -3500,7 +3661,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Duapa Lodge",
@@ -3522,7 +3684,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Tonyx Hotel Suites and Spa",
@@ -3544,7 +3707,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Mekandi Riverside Resort",
@@ -3566,7 +3730,8 @@
       ]
     },
     "website": "http://www.mekandiresort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Volta Region"
   },
   {
     "title": "Aburi Eco Resort",
@@ -3588,7 +3753,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Volta Hotel Akosombo",
@@ -3610,7 +3776,8 @@
       ]
     },
     "website": "http://www.voltahotel.com.gh/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Anum Resort",
@@ -3632,7 +3799,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Ridge Nest Hotel (RNH)",
@@ -3654,7 +3822,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Rock City Hotel",
@@ -3676,7 +3845,8 @@
       ]
     },
     "website": "http://rockcityhotelgh.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Akosombo Continental Hotel",
@@ -3698,7 +3868,8 @@
       ]
     },
     "website": "https://akosombo-continental-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Resort",
@@ -3720,7 +3891,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Adi Lake Resort",
@@ -3742,7 +3914,8 @@
       ]
     },
     "website": "http://www.adilakeresort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "AFRIKIKO RIVER FRONT RESORT",
@@ -3764,7 +3937,8 @@
       ]
     },
     "website": "http://afrikikoresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Riverside Valley Hotel",
@@ -3786,7 +3960,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": null
   },
   {
     "title": "Small World Hotel",
@@ -3808,7 +3983,8 @@
       ]
     },
     "website": "https://small-world-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Central Region"
   },
   {
     "title": "Modak Royal Hotel",
@@ -3830,7 +4006,8 @@
       ]
     },
     "website": "https://modak-royal-hotel.business.site/?utm_source=gmb&utm_medium=referral",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "The Peninsula Resort",
@@ -3852,7 +4029,8 @@
       ]
     },
     "website": "https://www.akosombopeninsularesort.com/",
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Hill Palace Hotel",
@@ -3863,7 +4041,8 @@
       "images": []
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Paradise Resort",
@@ -3885,7 +4064,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": null
   },
   {
     "title": "Safari Valley Resort",
@@ -3902,7 +4082,8 @@
       ]
     },
     "website": "https://safarivalleyresort.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Nelsban Palace Hotel",
@@ -3913,7 +4094,8 @@
       "images": []
     },
     "website": null,
-    "categoryName": "Hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "BEIGE Village Golf Resort & Spa",
@@ -3935,7 +4117,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Golf course"
+    "categoryName": "Golf course",
+    "region": "Eastern Region"
   },
   {
     "title": "The Lansdown Resort, Aburi-Ghana",
@@ -3957,7 +4140,8 @@
       ]
     },
     "website": null,
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "BridgeView Resort",
@@ -3979,7 +4163,8 @@
       ]
     },
     "website": "https://www.booking.com/hotel/gh/bridgeview-resort-akosombo1234.en-gb.html?label=gen173rf-1BCAsoVUIeYnJpZGdldmlldy1yZXNvcnQtYWtvc29tYm8xMjM0SDNYA2iyAogBAZgBCbgBGMgBDNgBAegBAYgCAZgCN6gCBLgCjYflnAbAAgHSAiRlODFlNGI1My0zODM5LTRlNzktYWMyMS0yYTM0YjFhMGFhNTfYAgXgAgE&sid=63022f3e39bf50503acaa62f35c81b1a&dist=0&keep_landing=1&sb_price_type=total&type=total&",
-    "categoryName": "Resort hotel"
+    "categoryName": "Resort hotel",
+    "region": "Eastern Region"
   },
   {
     "title": "Cactus Creek Hotel Ghana",
@@ -4001,28 +4186,7 @@
       ]
     },
     "website": "http://cactuscreek.com.gh/",
-    "categoryName": "Hotel"
-  },
-  {
-    "title": "The Royal Senchi Resort/Hotel",
-    "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
-    "city": "Akosombo",
-    "phone": "+233 30 340 9170",
-    "imageUrls": {
-      "images": [
-        "https://lh5.googleusercontent.com/p/AF1QipNHvCdG9fFxHr-6kpuR1Y8c1hzdslsrATPAn4jt=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipOCpAggHDeJQA4P65PrnTQOE7lNsAPSNtqatftV=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipMsJv3SdTchTG6yQ0NlJJwYLMAPqkc4G5uC2KNP=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipO-tHDN8_WmbgrHLIYiIrGWBIhoNzWivh85lkSG=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipO0fuMuK9dsXeE4Jc_miG8UqvUj_dYe44AnvXIp=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipPt12PRHmuplooKC1YeO5IbPQuGgY4dijyyct_1=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipOs5zdikvxTxI96iVv3zStH4gCvL5hZXnT48IwZ=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipPKSd4c2rTiINJZa2oXiqs3iV1q6JFjCkVK30Vq=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipM0qOZQZOE8BMmaJgAsQgPPF8QcDEZjxv8T6MBP=w1920-h1080-k-no",
-        "https://lh5.googleusercontent.com/p/AF1QipMyarHdwTlpUo0JVTs7D2qYuPC0ut3xRak23rlm=w1920-h1080-k-no"
-      ]
-    },
-    "website": "http://www.theroyalsenchi.com/",
-    "categoryName": "Resort hotel"
+    "categoryName": "Hotel",
+    "region": "Eastern Region"
   }
 ]
