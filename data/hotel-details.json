@@ -7,8 +7,8 @@
     "price": 36.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Beach"
+        "kid-friendly",
+        "beach"
       ]
     },
     "latitude": 4.8294648,
@@ -34,18 +34,18 @@
     "price": 50.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 4.9007445,
@@ -60,21 +60,21 @@
     "price": 100.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 4.8787809,
@@ -89,24 +89,24 @@
     "price": 130.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Golf course",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "spa",
+        "gym",
+        "golf course",
+        "bar"
       ]
     },
     "latitude": 4.8812416,
@@ -121,20 +121,20 @@
     "price": 129.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Business center",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center",
-        "Golf course",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "business center",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "gym",
+        "golf course",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 4.8860426,
@@ -160,13 +160,13 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.110938,
@@ -181,7 +181,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.1662839,
@@ -207,14 +207,14 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 4.8030391,
@@ -229,16 +229,16 @@
     "price": 37.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 4.9215988,
@@ -275,7 +275,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 4.9502854,
@@ -301,20 +301,20 @@
     "price": 125.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 4.884571,
@@ -329,22 +329,22 @@
     "price": 26.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 4.9052519,
@@ -359,8 +359,8 @@
     "price": 17.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Beach"
+        "kid-friendly",
+        "beach"
       ]
     },
     "latitude": 4.8099516,
@@ -375,8 +375,8 @@
     "price": 30.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Beach"
+        "kid-friendly",
+        "beach"
       ]
     },
     "latitude": 4.756283,
@@ -391,7 +391,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 4.9348827,
@@ -406,17 +406,17 @@
     "price": 44.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 4.9656324,
@@ -442,7 +442,7 @@
     "price": 55.0,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 4.8016611,
@@ -468,14 +468,14 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.1107727,
@@ -490,16 +490,16 @@
     "price": 24.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.1338485,
@@ -536,14 +536,14 @@
     "price": 47.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1214737,
@@ -580,7 +580,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.1311499,
@@ -595,15 +595,15 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "gym"
       ]
     },
     "latitude": 5.1116715,
@@ -618,7 +618,7 @@
     "price": 29.0,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.12358,
@@ -655,7 +655,7 @@
     "price": 29.0,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.1119823,
@@ -670,15 +670,15 @@
     "price": 28.0,
     "experience": {
       "amenities": [
-        "Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 6.539934,
@@ -693,19 +693,19 @@
     "price": 115.0,
     "experience": {
       "amenities": [
-        "Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.3029375,
@@ -720,14 +720,14 @@
     "price": 49.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Beach access",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "beach access",
+        "restaurant",
+        "kitchen in rooms",
+        "gym"
       ]
     },
     "latitude": 5.0682687,
@@ -742,14 +742,14 @@
     "price": 41.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Pet-friendly",
-        "Beach access",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "pet-friendly",
+        "beach access",
+        "restaurant",
+        "kitchen in rooms",
+        "gym"
       ]
     },
     "latitude": 4.9897149,
@@ -764,8 +764,8 @@
     "price": 77.0,
     "experience": {
       "amenities": [
-        "Pet-friendly",
-        "Kid-friendly"
+        "pet-friendly",
+        "kid-friendly"
       ]
     },
     "latitude": 4.9937236,
@@ -780,19 +780,19 @@
     "price": 77.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "hot tub",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.9659814,
@@ -807,18 +807,18 @@
     "price": 116.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.075138,
@@ -833,17 +833,17 @@
     "price": 69.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Beach access",
-        "Room service",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "beach access",
+        "room service",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.0623144,
@@ -858,17 +858,17 @@
     "price": 800.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Spa",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "spa",
+        "bar"
       ]
     },
     "latitude": 5.4273184,
@@ -883,21 +883,21 @@
     "price": 150.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.0934589,
@@ -912,12 +912,12 @@
     "price": 53.0,
     "experience": {
       "amenities": [
-        "Beach access",
-        "Bar",
-        "Spa",
-        "Restaurant",
-        "Free breakfast",
-        "Kid friendly"
+        "beach access",
+        "bar",
+        "spa",
+        "restaurant",
+        "free breakfast",
+        "kid friendly"
       ]
     },
     "latitude": 4.8519982,
@@ -932,23 +932,23 @@
     "price": 628.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 4.8288106,
@@ -963,18 +963,18 @@
     "price": 46.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "bar"
       ]
     },
     "latitude": 4.8917565,
@@ -989,21 +989,21 @@
     "price": 97.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Laundry service",
-        "Business center",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "business center",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 4.9723558,
@@ -1018,22 +1018,22 @@
     "price": 73.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Golf course",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "golf course",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.0765268,
@@ -1048,17 +1048,17 @@
     "price": 53.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.1248409,
@@ -1073,8 +1073,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Beach"
+        "kid-friendly",
+        "beach"
       ]
     },
     "latitude": 5.1034717,
@@ -1089,13 +1089,13 @@
     "price": 35.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.1108208,
@@ -1110,8 +1110,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Air-conditioned",
-        "Kid-friendly"
+        "air-conditioned",
+        "kid-friendly"
       ]
     },
     "latitude": 5.1142674,
@@ -1137,8 +1137,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Air-conditioned",
-        "Kid-friendly"
+        "air-conditioned",
+        "kid-friendly"
       ]
     },
     "latitude": 5.1314282,
@@ -1164,14 +1164,14 @@
     "price": 40.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1138647,
@@ -1197,16 +1197,16 @@
     "price": 31.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1283661,
@@ -1221,15 +1221,15 @@
     "price": 30.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1077276,
@@ -1244,15 +1244,15 @@
     "price": 53.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "bar"
       ]
     },
     "latitude": 5.1233372,
@@ -1267,14 +1267,14 @@
     "price": 35.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1206306,
@@ -1289,19 +1289,19 @@
     "price": 140.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.1228415,
@@ -1316,13 +1316,13 @@
     "price": 35.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Parking",
-        "Pool",
-        "Air-conditioned",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.1095411,
@@ -1337,23 +1337,23 @@
     "price": 22.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Paid breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "paid breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.1032038,
@@ -1368,14 +1368,14 @@
     "price": 25.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 7.162562,
@@ -1390,15 +1390,15 @@
     "price": 50.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "bar"
       ]
     },
     "latitude": 5.7950818,
@@ -1432,7 +1432,7 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
+        "kid-friendly",
         "waterfront",
         "free breakfast"
       ]
@@ -1471,13 +1471,13 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Paid Wi-Fi",
-        "Accessible",
-        "Business center",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Fitness center",
-        "Smoke-free"
+        "paid wi-fi",
+        "accessible",
+        "business center",
+        "pet-friendly",
+        "kid-friendly",
+        "gym",
+        "smoke-free"
       ]
     },
     "latitude": 6.8507,
@@ -1503,7 +1503,7 @@
     "price": 10.0,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.5994508,
@@ -1529,7 +1529,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.9392158,
@@ -1544,7 +1544,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.6092448,
@@ -1581,7 +1581,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.7811321,
@@ -1596,11 +1596,11 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Bar onsite",
-        "Good for kids",
-        "Restroom",
-        "Wi-Fi",
-        "Free Wi-Fi",
+        "bar",
+        "good for kids",
+        "restroom",
+        "wi-fi",
+        "free wi-fi",
         "waterfront"
       ]
     },
@@ -1616,11 +1616,11 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Pet-friendly",
-        "Beach",
-        "Free breakfast",
-        "Pool",
-        "Reastaurant"
+        "pet-friendly",
+        "beach",
+        "free breakfast",
+        "pool",
+        "reastaurant"
       ]
     },
     "latitude": 5.8974073,
@@ -1635,7 +1635,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.1952084,
@@ -1650,23 +1650,23 @@
     "price": 238.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Golf course",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "spa",
+        "gym",
+        "golf course",
+        "bar"
       ]
     },
     "latitude": 6.2195254,
@@ -1711,7 +1711,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.5691619,
@@ -1756,16 +1756,16 @@
     "price": 50.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 6.6143009,
@@ -1791,23 +1791,23 @@
     "price": 28.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Fitness center",
-        "Bar",
-        "Smoke-free",
-        "Volta tour"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "gym",
+        "bar",
+        "smoke-free",
+        "volta tour"
       ]
     },
     "latitude": 6.6250288,
@@ -1822,15 +1822,15 @@
     "price": 34.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar",
-        "Beach access"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar",
+        "beach access"
       ]
     },
     "latitude": 6.106923,
@@ -1845,8 +1845,8 @@
     "price": 30.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Greens and Mountains"
+        "kid-friendly",
+        "greens and mountains"
       ]
     },
     "latitude": 6.592883,
@@ -1861,17 +1861,17 @@
     "price": 71.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.8984292,
@@ -1886,15 +1886,15 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Parking",
-        "Pool",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.7723558,
@@ -1909,19 +1909,19 @@
     "price": 93.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Business center",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center",
-        "Bar",
-        "Smoke-free",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "business center",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "gym",
+        "bar",
+        "smoke-free",
         "waterfront"
       ]
     },
@@ -1937,19 +1937,19 @@
     "price": 129.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Business center",
-        "Restaurant",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Smoke-free",
-        "Golf course",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "business center",
+        "restaurant",
+        "hot tub",
+        "spa",
+        "gym",
+        "bar",
+        "smoke-free",
+        "golf course",
         "waterfront"
       ]
     },
@@ -1965,21 +1965,21 @@
     "price": 690.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 6.614448,
@@ -2005,19 +2005,19 @@
     "price": 185.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 4.8825469,
@@ -2043,15 +2043,15 @@
     "price": 52.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5822756,
@@ -2077,18 +2077,18 @@
     "price": 88.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5651636,
@@ -2103,8 +2103,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Air-conditioned",
-        "Kid-friendly"
+        "air-conditioned",
+        "kid-friendly"
       ]
     },
     "latitude": 5.5542991,
@@ -2119,14 +2119,14 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.5877274,
@@ -2152,22 +2152,22 @@
     "price": 145.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.6005796,
@@ -2182,12 +2182,12 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.5776724,
@@ -2202,16 +2202,16 @@
     "price": 30.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.6526603,
@@ -2226,18 +2226,18 @@
     "price": 72.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5471504,
@@ -2263,13 +2263,13 @@
     "price": 73.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Pool",
-        "Pet-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "pool",
+        "pet-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.555997,
@@ -2295,14 +2295,14 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.667281,
@@ -2317,14 +2317,14 @@
     "price": 81.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.608581,
@@ -2339,24 +2339,24 @@
     "price": 235.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchen in all rooms",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.5665354,
@@ -2371,24 +2371,24 @@
     "price": 35.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.6471896,
@@ -2403,18 +2403,18 @@
     "price": 139.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.5715588,
@@ -2429,21 +2429,21 @@
     "price": 124.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5705023,
@@ -2473,16 +2473,16 @@
     "price": 87.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle"
       ]
     },
     "latitude": 5.6490586,
@@ -2497,15 +2497,15 @@
     "price": 73.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "bar"
       ]
     },
     "latitude": 5.6456203,
@@ -2520,17 +2520,17 @@
     "price": 55.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.6510458,
@@ -2545,23 +2545,23 @@
     "price": 166.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.562352,
@@ -2576,22 +2576,22 @@
     "price": 218.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Paid breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "paid breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.6049869,
@@ -2606,20 +2606,20 @@
     "price": 190.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5934084,
@@ -2634,24 +2634,24 @@
     "price": 251.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "spa",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.5541221,
@@ -2666,23 +2666,23 @@
     "price": 68.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.596587,
@@ -2708,19 +2708,19 @@
     "price": 102.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5292987,
@@ -2735,7 +2735,7 @@
     "price": 32.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
+        "kid-friendly",
         "beach access"
       ]
     },
@@ -2751,20 +2751,20 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "bar"
       ]
     },
     "latitude": 5.5864424,
@@ -2779,15 +2779,15 @@
     "price": 8.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Pool",
-        "Laundry service",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "pool",
+        "laundry service",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5417771,
@@ -2802,21 +2802,21 @@
     "price": 207.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.618945,
@@ -2831,23 +2831,23 @@
     "price": 219.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Beach access",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "beach access",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.563936,
@@ -2862,17 +2862,17 @@
     "price": 27.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 5.1508384,
@@ -2887,15 +2887,15 @@
     "price": 22.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Parking",
-        "Pool",
-        "Beach access",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "beach access",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.1031634,
@@ -2932,7 +2932,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly",
+        "kid-friendly",
         "waterfront"
       ]
     },
@@ -2948,22 +2948,22 @@
     "price": 212.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Paid breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "paid breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.5544095,
@@ -2989,18 +2989,18 @@
     "price": 125.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.8276147,
@@ -3015,23 +3015,23 @@
     "price": 55.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Fitness center",
-        "Bar",
-        "Smoke-free",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "gym",
+        "bar",
+        "smoke-free",
         "waterfront"
       ]
     },
@@ -3064,15 +3064,15 @@
     "price": 45.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "bar",
         "waterfront"
       ]
     },
@@ -3088,18 +3088,18 @@
     "price": 68.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Greens and mountains"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "spa",
+        "gym",
+        "bar",
+        "greens and mountains"
       ]
     },
     "latitude": 5.9373755,
@@ -3147,23 +3147,23 @@
     "price": 53.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 6.0536823,
@@ -3178,24 +3178,24 @@
     "price": 234.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Bar",
-        "Greens and Mountains"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "spa",
+        "gym",
+        "bar",
+        "greens and mountains"
       ]
     },
     "latitude": 5.8084059,
@@ -3221,7 +3221,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.6066325,
@@ -3236,14 +3236,14 @@
     "price": 49.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 6.2538178,
@@ -3258,7 +3258,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.9413474,
@@ -3273,7 +3273,7 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 5.8108906,
@@ -3306,14 +3306,14 @@
     "price": 64.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
         "waterfront",
         "greens and mountains"
       ]
@@ -3348,24 +3348,24 @@
     "price": 149.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Paid breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Spa",
-        "Golf course",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "paid breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "spa",
+        "golf course",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 6.2893769,
@@ -3380,9 +3380,9 @@
     "price": 25.0,
     "experience": {
       "amenities": [
-        "Free parking",
-        "Pet-friendly",
-        "Kid-friendly",
+        "free parking",
+        "pet-friendly",
+        "kid-friendly",
         "greens and mountains"
       ]
     },
@@ -3398,15 +3398,15 @@
     "price": 120.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Room service",
-        "Restaurant",
-        "Bar",
-        "Greens"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "room service",
+        "restaurant",
+        "bar",
+        "green"
       ]
     },
     "latitude": 6.0164365,
@@ -3421,15 +3421,15 @@
     "price": 118.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Pool",
-        "Laundry service",
-        "Restaurant",
-        "Spa",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "laundry service",
+        "restaurant",
+        "spa",
+        "gym"
       ]
     },
     "latitude": 6.6161858,
@@ -3444,18 +3444,18 @@
     "price": 56.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar",
-        "Greens and Mountains",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "kid-friendly",
+        "restaurant",
+        "bar",
+        "greens and mountains",
         "waterfront"
       ]
     },
@@ -3471,14 +3471,14 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free parking",
-        "Pool",
-        "Kid-friendly",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Airport shuttle",
-        "Fitness center"
+        "free wi-fi",
+        "free parking",
+        "pool",
+        "kid-friendly",
+        "restaurant",
+        "kitchen in rooms",
+        "airport shuttle",
+        "gym"
       ]
     },
     "latitude": 6.198333,
@@ -3493,16 +3493,16 @@
     "price": 48.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar",
         "waterfront"
       ]
     },
@@ -3518,16 +3518,16 @@
     "price": 103.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "gym",
         "waterfront"
       ]
     },
@@ -3543,14 +3543,14 @@
     "price": 13.0,
     "experience": {
       "amenities": [
-        "Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Air-conditioned",
-        "Kid-friendly",
-        "Restaurant",
-        "Fitness center",
-        "Bar"
+        "wi-fi",
+        "free breakfast",
+        "free parking",
+        "air-conditioned",
+        "kid-friendly",
+        "restaurant",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 5.9998373,
@@ -3565,18 +3565,18 @@
     "price": 15.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Room service",
-        "Restaurant",
-        "Kitchens in some rooms",
-        "Fitness center",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "room service",
+        "restaurant",
+        "kitchen in rooms",
+        "gym",
+        "bar"
       ]
     },
     "latitude": 6.1338525,
@@ -3591,8 +3591,8 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Air-conditioned",
-        "Kid-friendly"
+        "air-conditioned",
+        "kid-friendly"
       ]
     },
     "latitude": 6.6926716,
@@ -3614,7 +3614,7 @@
         "golf course",
         "restaurant",
         "bar",
-        "Greens and Mountains"
+        "greens and mountains"
       ]
     },
     "latitude": 6.3095964,
@@ -3629,15 +3629,15 @@
     "price": null,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Kid-friendly",
-        "Restaurant",
-        "Bar",
-        "Greens and Mountains"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "kid-friendly",
+        "restaurant",
+        "bar",
+        "greens and mountains"
       ]
     },
     "latitude": 5.7955373,
@@ -3663,24 +3663,24 @@
     "price": 430.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Business center",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Spa",
-        "Fitness center",
-        "Golf course",
-        "Bar",
-        "Smoke-free"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "business center",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "spa",
+        "gym",
+        "golf course",
+        "bar",
+        "smoke-free"
       ]
     },
     "latitude": 5.9951446,
@@ -3695,8 +3695,8 @@
     "price": 15.0,
     "experience": {
       "amenities": [
-        "Kid-friendly",
-        "Greens"
+        "kid-friendly",
+        "green"
       ]
     },
     "latitude": 6.2296973,
@@ -3711,7 +3711,7 @@
     "price": 62.0,
     "experience": {
       "amenities": [
-        "Kid-friendly"
+        "kid-friendly"
       ]
     },
     "latitude": 6.3462406,
@@ -3726,20 +3726,20 @@
     "price": 150.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Bar",
-        "Golf course",
-        "Greens and Mountains"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "bar",
+        "golf course",
+        "greens and mountains"
       ]
     },
     "latitude": 5.8058686,
@@ -3754,11 +3754,11 @@
     "price": 177.0,
     "experience": {
       "amenities": [
-        "Greens and Mountains",
+        "greens and mountains",
         "waterfront",
         "pool",
-        "Reastaurant",
-        "Bar"
+        "reastaurant",
+        "bar"
       ]
     },
     "latitude": 6.2384595,
@@ -3773,13 +3773,13 @@
     "price": 84.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Pool",
-        "Laundry service",
-        "Restaurant",
-        "Fitness center"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "pool",
+        "laundry service",
+        "restaurant",
+        "gym"
       ]
     },
     "latitude": 5.844214,
@@ -3794,23 +3794,23 @@
     "price": 245.0,
     "experience": {
       "amenities": [
-        "Free Wi-Fi",
-        "Free breakfast",
-        "Free parking",
-        "Accessible",
-        "Outdoor pool",
-        "Air-conditioned",
-        "Laundry service",
-        "Pet-friendly",
-        "Room service",
-        "Kid-friendly",
-        "Restaurant",
-        "Airport shuttle",
-        "Hot tub",
-        "Spa",
-        "Fitness center",
-        "Golf course",
-        "Bar"
+        "free wi-fi",
+        "free breakfast",
+        "free parking",
+        "accessible",
+        "pool",
+        "air-conditioned",
+        "laundry service",
+        "pet-friendly",
+        "room service",
+        "kid-friendly",
+        "restaurant",
+        "airport shuttle",
+        "hot tub",
+        "spa",
+        "gym",
+        "golf course",
+        "bar"
       ]
     },
     "latitude": 6.2195254,
