@@ -3,13 +3,14 @@ import pandas as pd
 import mysql
 from sklearn.metrics.pairwise import cosine_similarity
 import json
+from data_models import HotelData, UserInput, OutputData, RankingData
 
 vectorizer = json.load('models/tfidf-vectorizer')
 
 # generate tf-idf vectors of experiences
 
 
-def user_vector(preferences):
+def user_vector(preferences: UserInput):
     user_pref = vectorizer.transform(preferences)
     return user_pref
 
@@ -21,7 +22,7 @@ def get_vectors(list):
 # get cosine similarity between user preference matrix and experience matrix
 
 
-def get_similarity(df, col, preferences):
+def get_similarity(df: HotelData, col, preferences):
     df['cos_sim'] = [cosine_similarity(
         get_vectors(exp['amenities']), user_vector(preferences)) for exp in df[col]]
     return df
@@ -36,7 +37,7 @@ def get_weighted_score(df, col1, col2, col3):
 # ranking and returning out in descending order
 
 
-def output_ranking(df):
+def output_ranking(df: RankingData):
     sorted_df = df.sort_values(by='weighted_score', ascending=False)
     return sorted_df
 

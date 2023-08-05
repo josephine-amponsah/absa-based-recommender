@@ -12,16 +12,16 @@ def home_page():
     return
 
 
-@app.get('/ranking')
+@app.get('/recommendation')
 def ranking_rows():
-    return
-
-
-@app.post('/user_search')
-def recommend():
     return
 
 
 @app.post('/destination')
 def details():
+    return
+
+
+@app.post('/dest')
+def recommend():
     return
