@@ -191,6 +191,73 @@
         <!-- partial -->
 
         <div class="page-content">
+          <div class="row"></div>
+          <div class="row">
+            <div class="col-md-12 stretch-card grid-margin grid-margin-md-2">
+              <div class="card">
+                <div class="card-body">
+                  <h6 class="card-title">Preferences</h6>
+                    <div>
+                      <div class="row">
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Region</label>
+                            <select class="form-select mb-3">
+                              <option selected>Region of Destination</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                        </div><!-- Col -->
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Budget</label>
+                            <select class="form-select mb-3">
+                              <option selected>Select Spend/night</option>
+                              <option value="1">One</option>
+                              <option value="2">Two</option>
+                              <option value="3">Three</option>
+                            </select>
+                          </div>
+                        </div><!-- Col -->
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Budget</label>
+                            <div class="dropdown">
+                              <button class="btn btn-outline-secondary block form-select" type="button" id="dropdownMenuButton" data-toggle="modal" data-target="#modalDiv">
+                                  Select Preferred Experience
+                              </button>
+                            </div>
+                          </div>
+                        </div><!-- Col -->
+                      </div><!-- Row -->
+                      <div class="modal fade" id="modalDiv" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="modalTitle">Modal Title</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p>This is the content of the modal.</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                                    <button type="button" class="btn btn-primary">Save changes</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                      
+                    </div>
+                    <button type="button" class="btn btn-primary submit">Submit form</button>
+                </div>
+              </div>
+            </div>
+          </div>
           <div class="example">
             <div class="row">
               <div
@@ -253,7 +320,7 @@
                 </div>
               </div>
             </div>
-            <div class="row"></div>
+            
             <div class="row">
               <div
                 class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-2"
@@ -385,7 +452,7 @@
         >
           <p class="text-muted mb-1 mb-md-0">
             Copyright © 2023
-            <a href="https://www.nobleui.com" target="_blank">TRIPPER</a>.
+            <a href="https://www.nobleui.com" target="_blank">TRIPPWISE</a>.
           </p>
         </footer>
         <!-- partial -->
@@ -402,6 +469,9 @@
     <!-- inject:js -->
     <script src="../static/vendors/feather-icons/feather.min.js"></script>
     <script src="../static/js/template.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <!-- endinject -->
 
     <!-- Custom js for this page -->
