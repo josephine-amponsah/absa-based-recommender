@@ -3,9 +3,11 @@ import pandas as pd
 import mysql
 from sklearn.metrics.pairwise import cosine_similarity
 import json
-from data_models import HotelData, UserInput, OutputData, RankingData
+import joblib
+from modules.data_models import HotelData, UserInput, OutputData, RankingData
 
-vectorizer = json.load('models/tfidf-vectorizer')
+with open('models/tfidf-vectorizer.pkl', 'rb') as f:
+    vectorizer = joblib.load(f)
 
 # generate tf-idf vectors of experiences
 

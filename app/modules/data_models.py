@@ -4,7 +4,7 @@ from typing import List
 
 class UserInput(BaseModel):
     budget: str
-    experience: List(str)
+    experience: list
     region: str
 
 
@@ -41,5 +41,5 @@ class AspectData(BaseModel):
 
 class DestinationInfo(RankingData):
     description: str
-    amenities: List(str)
-    aspect_rating: List(AspectData)
+    amenities: list
+    aspect_rating: AspectData

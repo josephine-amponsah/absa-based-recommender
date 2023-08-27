@@ -1,0 +1,9 @@
+{
+    "Experience":{ 
+                    "Scenery":["waterfront","beach","greens and mountains"],
+                    "Amenities":["pool","gym","spa","restaurant"],
+                    "Perks":["free breakfast","kid-friendly","free parking"]
+                },
+    "Regions" : ["Central Region", "Eastern Region","Greater Accra", "Volta Region","Western Region"],
+    "Budget": ["0-30","31-50","51-70","71-100","101-200","201-300","300+"]
+}
