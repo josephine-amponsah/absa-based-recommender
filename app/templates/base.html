@@ -198,16 +198,16 @@
               <div class="card">
                 <div class="card-body">
                   <h6 class="card-title">Preferences</h6>
-                  <form action="/recommendation" method="get">
+                  <form action="/recommendation/" method="post" enctype="application/x-www-form-urlencoded">
                     <div>
                       <div class="row">
                         <div class="col-sm-4">
                           <div class="mb-3">
                             <label class="form-label">Region</label>
-                            <select class="form-select mb-3">
+                            <select class="form-select mb-3" name="region">
                               <option selected>Region of Destination</option>
                               {% for region in options.Regions %}
-                              <option>{{ region }}</option>
+                              <option >{{ region }}</option>
                               {% endfor %}
                             </select>
                           </div>
@@ -215,7 +215,7 @@
                         <div class="col-sm-4">
                           <div class="mb-3">
                             <label class="form-label">Budget</label>
-                            <select class="form-select mb-3">
+                            <select class="form-select mb-3" name ="budget">
                               <option selected>Select spend/night ($)</option>
                               {% for budget in options.Budget %}
                               <option>{{ budget }}</option>
@@ -252,7 +252,7 @@
                         </div>
                       </div>
                     </div>
-                    <button type="button" class="btn btn-primary submit">Submit</button>
+                    <button type="submit" class="btn btn-primary submit">Submit</button>
                   </form>
                 </div>
               </div>

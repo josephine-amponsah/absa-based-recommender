@@ -55,15 +55,19 @@ def home_page(request: Request):
     return templates.TemplateResponse("base.html", {"options": options_data, "request": request})
 
 
-@app.get('/recommendation')
-def ranking_rows(user_pref: UserInput):
+@app.post('/recommendation/')
+def ranking_rows(budget: str = Form(...),
+                 experience: list = Form(...),
+                 region: str = Form(...)):
+    user_input = UserInput(budget=budget, experience=experience, region=region)
+
     # query = "SELECT * FROM hotels_details WHERE price_bins = %s "
     # cursor.execute(query, (user_pref['price_range'],))
     # query_result = cursor.fetchall()
     # df = pd.DataFrame(query_result, columns=[
     #                   col[0] for col in cursor.description])
 
-    return
+    return {"data": user_input}
 
 
 @app.post('/destination')
