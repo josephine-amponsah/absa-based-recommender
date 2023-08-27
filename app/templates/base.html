@@ -198,6 +198,7 @@
               <div class="card">
                 <div class="card-body">
                   <h6 class="card-title">Preferences</h6>
+                  <form action="/recommendation" method="get">
                     <div>
                       <div class="row">
                         <div class="col-sm-4">
@@ -205,9 +206,9 @@
                             <label class="form-label">Region</label>
                             <select class="form-select mb-3">
                               <option selected>Region of Destination</option>
-                              <option value="1">One</option>
-                              <option value="2">Two</option>
-                              <option value="3">Three</option>
+                              {% for region in options.Regions %}
+                              <option>{{ region }}</option>
+                              {% endfor %}
                             </select>
                           </div>
                         </div><!-- Col -->
@@ -215,10 +216,10 @@
                           <div class="mb-3">
                             <label class="form-label">Budget</label>
                             <select class="form-select mb-3">
-                              <option selected>Select Spend/night</option>
-                              <option value="1">One</option>
-                              <option value="2">Two</option>
-                              <option value="3">Three</option>
+                              <option selected>Select spend/night ($)</option>
+                              {% for budget in options.Budget %}
+                              <option>{{ budget }}</option>
+                              {% endfor %}
                             </select>
                           </div>
                         </div><!-- Col -->
@@ -237,94 +238,22 @@
                         <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
                             <div class="modal-content">
                                 <div class="modal-body">
-                                    <h5>Scenery</h5>
-                                    <div class="mb-3">
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline">
-                                        <label class="form-check-label" for="checkInline">
-                                          Inline checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" checked>
-                                        <label class="form-check-label" for="checkInlineChecked">
-                                          Checked
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled>
-                                        <label class="form-check-label" for="checkInlineDisabled">
-                                          Inline disabled checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled checked>
-                                        <label class="form-check-label" for="checkInlineCheckedDisabled">
-                                          Disabled checked
-                                        </label>
-                                      </div>
-                                    </div>
-                                    <h5>Amenities</h5>
-                                    <div class="mb-3">
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline">
-                                        <label class="form-check-label" for="checkInline">
-                                          Inline checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" checked>
-                                        <label class="form-check-label" for="checkInlineChecked">
-                                          Checked
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled>
-                                        <label class="form-check-label" for="checkInlineDisabled">
-                                          Inline disabled checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled checked>
-                                        <label class="form-check-label" for="checkInlineCheckedDisabled">
-                                          Disabled checked
-                                        </label>
-                                      </div>
-                                    </div>
-                                    <h5>Perks</h5>
-                                    <div class="mb-3">
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline">
-                                        <label class="form-check-label" for="checkInline">
-                                          Inline checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" checked>
-                                        <label class="form-check-label" for="checkInlineChecked">
-                                          Checked
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled>
-                                        <label class="form-check-label" for="checkInlineDisabled">
-                                          Inline disabled checkbox
-                                        </label>
-                                      </div>
-                                      <div class="form-check form-check-inline">
-                                        <input type="checkbox" class="form-check-input" id="checkInline" disabled checked>
-                                        <label class="form-check-label" for="checkInlineCheckedDisabled">
-                                          Disabled checked
-                                        </label>
-                                      </div>
-                                    </div>
+                                  {% for section, object in options.Experience.items() %}
+                                  <h5 class = "mb-2">{{ section }}</h5>
+                                  {% for option in object %}
+                                  <div class="form-check form-check-inline mb-3">
+                                      <input type="checkbox" class="form-check-input" id="{{ option }}" name="experience" value="{{ option }}">
+                                      <label class="form-check-label" for="{{ option }}">{{ option }}</label>
+                                  </div>
+                                  {% endfor %}
+                                  {% endfor %}
                                 </div>
                             </div>
                         </div>
+                      </div>
                     </div>
-                      
-                    </div>
-                    <button type="button" class="btn btn-primary submit">Submit form</button>
+                    <button type="button" class="btn btn-primary submit">Submit</button>
+                  </form>
                 </div>
               </div>
             </div>
