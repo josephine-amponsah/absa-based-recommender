@@ -13,6 +13,7 @@ import json
 import mysql.connector
 import uvicorn
 from fastapi.staticfiles import StaticFiles
+import numpy as np
 
 load_dotenv()
 db_host = os.getenv("DB_HOST")
@@ -20,27 +21,22 @@ db_user = os.getenv("DB_USER")
 db_password = os.getenv("DB_PASSWORD")
 db_name = os.getenv("DB_NAME")
 # DATABASE_URL = f"mysql+mysqlconnector://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}/{os.getenv('DB_NAME')}"
-# conn = mysql.connector.connect(
-#     host=db_host,
-#     user=db_user,
-#     password=db_user,
-#     database=db_name
-# )
-# try:
-#     # Create database connection
-#     conn = mysql.connector.connect(
-#         host=DB_HOST,
-#         user=DB_USER,
-#         password=DB_PASSWORD,
-#         database=DB_NAME
-#     )
-# except mysql.connector.Error as err:
-#     # Handle error
-#     error_msg = f"Error connecting to database: {err}"
-#     JSONResponse(content={"error": error_msg}, status_code=500)
+
+try:
+    # Create database connection
+    conn = mysql.connector.connect(
+        host=db_host,
+        user=db_user,
+        password=db_password,
+        database=db_name
+    )
+except mysql.connector.Error as err:
+    # Handle error
+    error_msg = f"Error connecting to database: {err}"
+    JSONResponse(content={"error": error_msg}, status_code=500)
 
 
-# cursor = conn.cursor()
+cursor = conn.cursor()
 
 with open("modules/options.json", "r") as options_file:
     options_data = json.load(options_file)
@@ -61,13 +57,16 @@ def ranking_rows(budget: str = Form(...),
                  region: str = Form(...)):
     user_input = UserInput(budget=budget, experience=experience, region=region)
 
-    # query = "SELECT * FROM hotels_details WHERE price_bins = %s "
-    # cursor.execute(query, (user_pref['price_range'],))
-    # query_result = cursor.fetchall()
-    # df = pd.DataFrame(query_result, columns=[
-    #                   col[0] for col in cursor.description])
-
-    return {"data": user_input}
+    query = """SELECT hd.* 
+    FROM hotels_details hd
+    INNER JOIN hotels_info hi ON hd.place_id = hi.place_id
+    WHERE hd.price_bins = %s 
+    AND hi.region = %s"""
+    cursor.execute(query, (user_input.budget, user_input.region))
+    query_result = cursor.fetchall()
+    result_list = [dict(zip([col[0] for col in cursor.description], row))
+                   for row in query_result]
+    return {"data": result_list}
 
 
 @app.post('/destination')
