@@ -7,14 +7,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="description" content="Trip planning assistant" />
     <meta name="author" content="TRIPPER" />
-    {% comment %}
-    <meta
-      name="keywords"
-      content="nobleui, bootstrap, bootstrap 5, bootstrap5, admin, dashboard, template, responsive, css, sass, html, theme, front-end, ui kit, web"
-    />
-    {% endcomment %}
 
-    <title>TRIPPER</title>
+    <title>TRIPPWISE</title>
 
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -48,13 +42,14 @@
     <!-- End layout styles -->
 
     <link rel="shortcut icon" href="../static/images/favicon.png" />
+  
   </head>
   <body>
     <div class="main-wrapper">
       <!-- partial:../../partials/_sidebar.html -->
       <nav class="sidebar">
         <div class="sidebar-header">
-          <a href="#" class="sidebar-brand"> TRIPP<span>ER</span> </a>
+          <a href="#" class="sidebar-brand"> TRIPP<span>WISE</span> </a>
           <div class="sidebar-toggler not-active">
             <span></span>
             <span></span>
@@ -67,10 +62,14 @@
             <li class="nav-item">
               <a href="../../dashboard.html" class="nav-link">
                 <i class="link-icon" data-feather="box"></i>
-                <span class="link-title">Dashboard</span>
+                <span class="link-title">Plans</span>
+              </a>
+              <a href="../../dashboard.html" class="nav-link">
+                <i class="link-icon" data-feather="box"></i>
+                <span class="link-title">Tripps</span>
               </a>
             </li>
-            <li class="nav-item nav-category">Plans</li>
+            <li class="nav-item nav-category">Support</li>
             <li class="nav-item">
               <a
                 class="nav-link"
@@ -81,40 +80,10 @@
                 aria-controls="emails"
               >
                 <i class="link-icon" data-feather="mail"></i>
-                <span class="link-title">Email</span>
-                <i class="link-arrow" data-feather="chevron-down"></i>
-              </a>
-              <div class="collapse" id="emails">
-                <ul class="nav sub-menu">
-                  <li class="nav-item">
-                    <a href="../../pages/email/inbox.html" class="nav-link"
-                      >Inbox</a
-                    >
-                  </li>
-                  <li class="nav-item">
-                    <a href="../../pages/email/read.html" class="nav-link"
-                      >Read</a
-                    >
-                  </li>
-                  <li class="nav-item">
-                    <a href="../../pages/email/compose.html" class="nav-link"
-                      >Compose</a
-                    >
-                  </li>
-                </ul>
-              </div>
-            </li>
-            <li class="nav-item">
-              <a href="../../pages/apps/chat.html" class="nav-link">
-                <i class="link-icon" data-feather="message-square"></i>
-                <span class="link-title">Chat</span>
+                <span class="link-title">Settings</span>
               </a>
             </li>
-            <li class="nav-item">
-              <a href="../../pages/apps/calendar.html" class="nav-link">
-                <i class="link-icon" data-feather="calendar"></i>
-                <span class="link-title">Calendar</span>
-              </a>
+            
             </li>
           </ul>
         </div>
@@ -223,10 +192,121 @@
         <!-- partial -->
 
         <div class="page-content">
-          <div class="example">
+          <div class="row"></div>
+          <div class="row">
+            <div class="col-md-12 stretch-card grid-margin grid-margin-md-2">
+              <div class="card">
+                <div class="card-body">
+                  <h6 class="card-title">Preferences</h6>
+                  <form action="/recommendation/" method="post" enctype="application/x-www-form-urlencoded">
+                    <div>
+                      <div class="row">
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Region</label>
+                            <select class="form-select mb-3" name="region">
+                              <option selected>Region of Destination</option>
+                              {% for region in options.Regions %}
+                              <option >{{ region }}</option>
+                              {% endfor %}
+                            </select>
+                          </div>
+                        </div><!-- Col -->
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Budget</label>
+                            <select class="form-select mb-3" name ="budget">
+                              <option selected>Select spend/night ($)</option>
+                              {% for budget in options.Budget %}
+                              <option>{{ budget }}</option>
+                              {% endfor %}
+                            </select>
+                          </div>
+                        </div><!-- Col -->
+                        <div class="col-sm-4">
+                          <div class="mb-3">
+                            <label class="form-label">Experience</label>
+                            <div class="dropdown">
+                              <button class="btn btn-outline-secondary block form-select" type="button" id="dropdownMenuButton" data-toggle="modal" data-target="#modalDiv">
+                                  Select Preferred Experience
+                              </button>
+                            </div> 
+                          </div>
+                        </div><!-- Col -->
+                      </div><!-- Row -->
+                      <div class="modal fade" id="modalDiv" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                            <div class="modal-content">
+                                <div class="modal-body">
+                                  {% for section, object in options.Experience.items() %}
+                                  <h5 class = "mb-2">{{ section }}</h5>
+                                  {% for option in object %}
+                                  <div class="form-check form-check-inline mb-3">
+                                      <input type="checkbox" class="form-check-input" id="{{ option }}" name="experience" value="{{ option }}">
+                                      <label class="form-check-label" for="{{ option }}">{{ option }}</label>
+                                  </div>
+                                  {% endfor %}
+                                  {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                      </div>
+                    </div>
+                    <button type="submit" class="btn btn-primary submit">Submit</button>
+                  </form>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="example"> 
             <div class="row">
               <div
-                class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-0"
+                class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-2"
+              >
+                <div class="card">
+                  <img
+                    src="../static/images/others/placeholder.jpg"
+                    class="card-img-top"
+                    alt="..."
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#destinationModal1">More Info</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-xl-4">
+                <div class="card">
+                  <img
+                    src="../static/images/others/placeholder.jpg"
+                    class="card-img-top"
+                    alt="..."
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                   
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#destinationModal1">More Info</button>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-md-6 col-xl-4">
+                <div class="card">
+                  <img
+                    src="../static/images/others/placeholder.jpg"
+                    class="card-img-top"
+                    alt="..."
+                  />
+                  <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    
+                    <button class="btn btn-primary" data-toggle="modal" data-target="#destinationModal1">More Info</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div
+                class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-2"
               >
                 <div class="card">
                   <img
@@ -285,10 +365,9 @@
                 </div>
               </div>
             </div>
-            <div class="row"></div>
             <div class="row">
               <div
-                class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-0"
+                class="col-12 col-md-6 col-xl-4 grid-margin grid-margin-md-2"
               >
                 <div class="card">
                   <img
@@ -345,19 +424,21 @@
                     >
                   </div>
                 </div>
+              </div>
+            </div>
+            <div class="modal fade" id="destinationModal1" tabindex="-1" role="dialog" aria-labelledby="destinationModalLabel1" aria-hidden="true">
+              <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+                  <div class="modal-content">
+                      <iframe src="destination.html" height = "600px" class ="border-0"></iframe>
+                  </div>
               </div>
             </div>
           </div>
         </div>
 
         <!-- partial:../../partials/_footer.html -->
-        <footer
-          class="footer d-flex flex-column flex-md-row align-items-center justify-content-between px-4 py-3 border-top small"
-        >
-          <p class="text-muted mb-1 mb-md-0">
-            Copyright © 2023
-            <a href="https://www.nobleui.com" target="_blank">TRIPPER</a>.
-          </p>
+        <footer>
+          
         </footer>
         <!-- partial -->
       </div>
@@ -373,6 +454,9 @@
     <!-- inject:js -->
     <script src="../static/vendors/feather-icons/feather.min.js"></script>
     <script src="../static/js/template.js"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <!-- endinject -->
 
     <!-- Custom js for this page -->

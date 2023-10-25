@@ -3785,36 +3785,5 @@
     "latitude": 5.844214,
     "longitude": -0.1650455,
     "price_bins": "71-100"
-  },
-  {
-    "placeId": "ChIJddSnqvGoIBAR2m3ekWBbs2o",
-    "reviewsCount": 3432,
-    "totalScore": 4.5,
-    "hotelStars": "4-star hotel",
-    "price": 245.0,
-    "experience": {
-      "amenities": [
-        "free wi-fi",
-        "free breakfast",
-        "free parking",
-        "accessible",
-        "pool",
-        "air-conditioned",
-        "laundry service",
-        "pet-friendly",
-        "room service",
-        "kid-friendly",
-        "restaurant",
-        "airport shuttle",
-        "hot tub",
-        "spa",
-        "gym",
-        "golf course",
-        "bar"
-      ]
-    },
-    "latitude": 6.2195254,
-    "longitude": 0.0891466,
-    "price_bins": "201-300"
   }
 ]
