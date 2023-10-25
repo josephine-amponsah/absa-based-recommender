@@ -11,27 +11,29 @@ class UserInput(BaseModel):
 class HotelData(BaseModel):
     id: str
     reviews_count: int
-    rating: float
+    total_score: float
     price: float
     experience: Json
     latitude: float
     longitude: float
     price_bins: str
+    title: str
+    city: str
+    phone: str
+    image_urls: Json
+    website: str
+    category_name: str
+    region: str
 
 
 class RankingData(HotelData):
-    cosine_similarity: str
-    weighted_score: str
+    cosine_similarity: float
+    weighted_score: float
 
 
-class OutputData(BaseModel):
-    id: str
-    hotel_name: str
-    price: float
-    rating: float
-    city: str
-    experience: Json
-    images: Json
+class OutputData(HotelData):
+    cos_sim: float
+    weighted_score: float
 
 
 class AspectData(BaseModel):

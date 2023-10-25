@@ -3,7 +3,7 @@ from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import JSONResponse
 import modules.data_models
-import modules.recommender_algos
+from modules.recommender_algos import main_recommendation
 import mysql
 from dotenv import load_dotenv
 import os
@@ -57,7 +57,7 @@ def ranking_rows(budget: str = Form(...),
                  region: str = Form(...)):
     user_input = UserInput(budget=budget, experience=experience, region=region)
 
-    query = """SELECT hd.* 
+    query = """SELECT hd.* ,hi.*
     FROM hotels_details hd
     INNER JOIN hotels_info hi ON hd.place_id = hi.place_id
     WHERE hd.price_bins = %s 
@@ -66,7 +66,8 @@ def ranking_rows(budget: str = Form(...),
     query_result = cursor.fetchall()
     result_list = [dict(zip([col[0] for col in cursor.description], row))
                    for row in query_result]
-    return {"data": result_list}
+    output = main_recommendation(df=result_list, preferences=user_input)
+    return {"data": result_list, "result": output}
 
 
 @app.post('/destination')
