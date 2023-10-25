@@ -1,4 +1,4 @@
-# Aspect-Based Destination Recommender
+# Destination Recommender (Content-based)
 
 The Destination Recommender Application is a project aimed at providing personalized destination recommendations to users based on their preferences and interests. The goal is to enhance the travel planning experience by leveraging machine learning models and creating a user-friendly web application.
 
