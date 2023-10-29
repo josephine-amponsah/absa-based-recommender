@@ -4,14 +4,14 @@ When looking up products or services to patronise, reviews of past customer form
 
 With Aspect-Based Sentiment Analysis (ABSA), neither parties have to do all that work. ABSA generates sentiments of reviews or comments, fishing out subject(s) of each comment and providing the sentiment around them
 
-In this sub-project is aimed at building a model that generates sentiments of reviews under subjects/categories related to a service. In this case, the service of interest is one provided by hotels or resorts in Ghana to tourists /customers.
+This sub-project is hence, aimed at building a model that generates sentiments of reviews under subjects/categories related to a service. In this case, the service of interest is one provided by hotels or resorts in Ghana to tourists /customers.
 
 ## Skills
 
 - Text Data Processing
 - Word Embedding
 - NLP
-- Aspect-Based Sentiment Analysis
+- Aspect-Based Sentiment Analysis(ABSA)
 - Document clustering
 
 # Table of Contents
@@ -49,13 +49,13 @@ Data of destinations were scraped from the web using APIFY's python client. The 
 
 ## Data cleaning
 
-To extract the reviews data only, json data was then transform into a dataframe with: destination id, the date, rating and comment of each view into a dataframe. The data format/type of each column was assessed to ensure conformity to the desire data type. It was then stored in another json file.
+To extract the reviews data only, json data was then transform into a dataframe with: destination id, the date, rating and comment of each view into a dataframe. The data format/type of each column was assessed to ensure conformity to the desired data types. It was then stored in another json file.
 
 # ML Model Training & Evaluation
 
 ## Feature engineering
 
-To prep the data for the training of the NLP model, :
+To prep the data for training of the NLP model, :
 
 - stopwords were removed
 - punctuations were eliminated
@@ -63,7 +63,7 @@ To prep the data for the training of the NLP model, :
 
 ## ABSA model inferencing (ATEPC)
 
-The model used is a pre-trained BERT model for aspect sentiment extraction. The ATEPC model from the PyABSA library was selected based on the output structure. The model was the inference with the prepped data to generate aspects and sentiments per review.
+The model used was a pre-trained BERT model for aspect sentiment extraction. The ATEPC model from the PyABSA library was selected based on the output structure. The model was the inference with the prepped data to generate aspects and sentiments per review.
 
 ## Aspect clustering with Word2Vec
 
@@ -87,5 +87,6 @@ With the introduction of the Category Aspect Sentiment generator (ABSAInstructio
 # Future Development
 
 1. Replace model with ABSAIntruction (Category-Aspect Sentiment Generator)
-2. Build API for model deployment to applications
-3. Build API documentation
+2. Aggregate sentiment vectors of each category
+3. Build API for model deployment to applications
+4. Build API documentation
