@@ -1,6 +1,10 @@
 # Aspect Sentiment Generator
 
-This sub-project is aimed at building a model that generates sentiments of reviews under subjects/categories related to a service. In this case, the service of interest is one provided by hotels or resorts in Ghana to tourists /customers.
+When looking up products or services to patronise, reviews of past customer form an essential part of decision making. Having to go through tons of reviews of several products can be quite tasking. From the perspective of businesses, assessing 1000s of customer reviews to pick out pain points or recommendation can also be quite the work.
+
+With Aspect-Based Sentiment Analysis (ABSA), neither parties have to do all that work. ABSA generates sentiments of reviews or comments, fishing out subject(s) of each comment and providing the sentiment around them
+
+In this sub-project is aimed at building a model that generates sentiments of reviews under subjects/categories related to a service. In this case, the service of interest is one provided by hotels or resorts in Ghana to tourists /customers.
 
 ## Skills
 
@@ -30,6 +34,8 @@ This sub-project is aimed at building a model that generates sentiments of revie
 - Pandas
 - Gensim
 - FastAPI
+- Googletrans
+- TextBlob
 
 ## Languages
 
@@ -39,25 +45,44 @@ This sub-project is aimed at building a model that generates sentiments of revie
 
 ## Data collection
 
-Data of destinations were scraped from the web using APIFY's python client. The json data was then transform into three dataframes with: destination bio, destination metrics and destination reviews.
+Data of destinations were scraped from the web using APIFY's python client. The scraped data of destinations and their latest 50 reviews were written to a json file.
 
 ## Data cleaning
 
-## Data modeling
+To extract the reviews data only, json data was then transform into a dataframe with: destination id, the date, rating and comment of each view into a dataframe. The data format/type of each column was assessed to ensure conformity to the desire data type. It was then stored in another json file.
 
 # ML Model Training & Evaluation
 
 ## Feature engineering
 
-## ABSA model training
+To prep the data for the training of the NLP model, :
 
-An ABSA model was built on the reviews data. This was used to generate sentiments of customers on various experiences or aspects of experiences during their stay. This was built using the ATEPC model PyABSA library to generate aspects and sentiments.
+- stopwords were removed
+- punctuations were eliminated
+- language of all non-english reviews were converted to english
+
+## ABSA model inferencing (ATEPC)
+
+The model used is a pre-trained BERT model for aspect sentiment extraction. The ATEPC model from the PyABSA library was selected based on the output structure. The model was the inference with the prepped data to generate aspects and sentiments per review.
 
 ## Aspect clustering with Word2Vec
 
-The resulting aspects were many and needed to be categorized under specific labels for proper aggregation of sentiments. A Word2Vec model was trained on the reviews data, and the vectors of selected labels and the generated aspects were passed to cosine similarity function. the aspect were then replaced with labels they were closest to.
+The resulting aspects were many and needed to be categorized under specific labels for proper aggregation of sentiments.
 
-# Results
+- reviews data was tokenized
+- a Word2Vec model was trained on the reviews data
+- the vectors of selected labels and the generated aspects were passed to cosine similarity function.
+- the aspect were then replaced with labels they were closest to
+
+Hallucinations, wrong placements of a significant number of aspects, were observed in the resulting data. Requiring that the model be retrained on better prepared or more data
+
+## ABSA model training & inferencing
+
+The data was preprocessed again, applying lemmatization, bigram tokenization and removal of caps.
+Other models from the PyABSA library were experimented on. Each model was trained on the project data before inferencing.
+With the introduction of the Category Aspect Sentiment generator (ABSAInstruction), further clustering the generated is no more needed.
+
+<!-- # Results -->
 
 # Future Development
 
