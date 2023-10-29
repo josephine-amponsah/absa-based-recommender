@@ -6,12 +6,11 @@ The Destination Recommender Application is a project aimed at providing personal
 
 - NLP
 - Recommender systems
-- ABSA
-- Document clustering
+- Clustering
 - Web scraping
 - Data Cleaning
 - API development
-- Data modelling/ storage
+- Data modelling
 
 # Table of Contents
 
@@ -24,9 +23,9 @@ The Destination Recommender Application is a project aimed at providing personal
 7. Web Application Development
 8. Future Development
 
-# Code Structure
+# 1. Code Structure
 
-# Tools & Packages
+# 2. Tools & Packages
 
 ## Frameworks
 
@@ -44,26 +43,63 @@ The Destination Recommender Application is a project aimed at providing personal
 - SQL
 - HTML/CSS
 
-# Data
+# 3. Data
 
-Data of destinations were scraped from the web using APIFY's python client. The json data was then transform into three dataframes with: destination bio, destination metrics and destination reviews.
-Missing data points in some dataframes were filled out with manual searches. The final dataframes were stored in a MySQL database in different tables.
+## Data Collection
 
-# ML Model Training
+Data of destinations were scraped from the web using APIFY's python client were written to a json file.
+
+## Data Cleaning
+
+- The json data was then transform into three dataframes with: destination bio, destination metrics and destination reviews.
+- Missing data points in some dataframes were filled out with manual searches.
+
+## Data Modelling
+
+- A database schema design for a normalized database
+- The cleaned dataframes were stored in a MySQL database in designated tables.
+
+# 4. ML Model Training
+
+To achieve the goal of the project, three models are required:
+
+- ABSA model to generate category-aspect sentiments. This would be added to the input data for the recommender algorithms
+- Content-based recommender algorithm. To recommend destinations based on user specified preference
+- Knowledge-based recommender algorithm. To recommend destinations for the application's zero, based on pre-existing data and rankings.
+
+The ABSA model is explained in the 'ABSA.md' file, while the other two are discussed below.
 
 ## Feature Engineering
 
-## Knowledge-based Recommender
+The data table with description of each data has the prices, review ratings, gps coordinates and list of amenities(json).
+
+- Prices: designated into bins to simplify categorization
+- List of amenities: converted to vectors with TfidfVectorizer class from sklearn. Data was tokenized, lemmatized and case normalized before model training.
 
 ## Content-based Recommender
 
-# Results
+- Module designed for the processing of user preferences and output of destination based on cosine similarity
+- Outputs are in three forms: closest by similarity, similar destinations outside of selected region and similar destinations outside of budget.
 
-# API Development
+## Knowledge-based Recommender
 
-# Web Application
+- Module to be designed for destinations by 3 different rankings: best food, best ambience, budget friendly destinations with good sentiments.
+- This feature is mainly based on the results of the ABSA model
 
-# Future Development
+# 5. Results
+
+# 6. API Development
+
+A FastAPI application was constructed and linked to the database for data retrieval and modules for inferencing models and algorithms
+
+- Integrated with Web application
+
+# 7. Web Application
+
+- This is the user interface for the target audience of the product. Built with HTML, CSS and Python.
+- Mainly runs on FastAPI application
+
+# 8. Future Development
 
 1. Complete web application features
 2. Complete Integration of API with web application
