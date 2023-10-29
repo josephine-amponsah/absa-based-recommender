@@ -20,12 +20,11 @@ This sub-project is hence, aimed at building a model that generates sentiments o
 2. Tools & Packages
 3. Data
 4. ML Model Training & Evaluation
-5. Results
-6. Future Development
+5. Future Development
 
-# Code Structure
+# 1. Code Structure
 
-# Tools & Packages
+# 2. Tools & Packages
 
 ## Frameworks
 
@@ -41,7 +40,7 @@ This sub-project is hence, aimed at building a model that generates sentiments o
 
 - Python
 
-# Data
+# 3. Data
 
 ## Data collection
 
@@ -51,7 +50,7 @@ Data of destinations were scraped from the web using APIFY's python client. The 
 
 To extract the reviews data only, json data was then transform into a dataframe with: destination id, the date, rating and comment of each view into a dataframe. The data format/type of each column was assessed to ensure conformity to the desired data types. It was then stored in another json file.
 
-# ML Model Training & Evaluation
+# 4. ML Model Training & Evaluation
 
 ## Feature engineering
 
@@ -84,7 +83,7 @@ With the introduction of the Category Aspect Sentiment generator (ABSAInstructio
 
 <!-- # Results -->
 
-# Future Development
+# 5. Future Development
 
 1. Replace model with ABSAIntruction (Category-Aspect Sentiment Generator)
 2. Aggregate sentiment vectors of each category
